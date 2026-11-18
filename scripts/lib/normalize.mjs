@@ -81,6 +81,7 @@ export function normalize(raw, sourceName) {
     end: end.toISOString(),
     allDay: !!raw.allDay || undefined,
     sessions: raw.sessions > 1 ? raw.sessions : undefined,
+    tentative: raw.tentative ? true : undefined,
     venue: raw.venue || undefined,
     address: raw.address || undefined,
     price: raw.price ?? undefined,
@@ -97,13 +98,17 @@ export function normalize(raw, sourceName) {
 
 /** Едно и също събитие от два източника = същото заглавие (приблизително) + същия ден. */
 export function dedupe(events) {
-  const key = (e) => `${slug(e.title).replace(/-/g, "").slice(0, 30)}|${e.start.slice(0, 10)}`;
+  // Денят по българско време (иначе 00:00 ч. в София е „вчера“ в UTC)
+  const day = (iso) => new Date(iso).toLocaleDateString("en-CA", { timeZone: "Europe/Sofia" });
+  const key = (e) => `${slug(e.title).replace(/-/g, "").slice(0, 30)}|${day(e.start)}`;
   const seen = new Map();
   for (const e of events) {
     const k = key(e);
     const prev = seen.get(k);
     // Пазим по-пълния запис (с повече попълнени полета)
-    if (!prev || Object.keys(e).length > Object.keys(prev).length) seen.set(k, e);
+    // Предпочитаме записа с точен час и потвърдена дата, после по-пълния
+    const score = (x) => Object.keys(x).length - (x.allDay ? 4 : 0) - (x.tentative ? 4 : 0);
+    if (!prev || score(e) > score(prev)) seen.set(k, e);
   }
   return [...seen.values()];
 }

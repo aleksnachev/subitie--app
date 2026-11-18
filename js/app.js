@@ -226,6 +226,7 @@ function statusBadge(ev) {
   const st = statusOf(ev);
   if (st === "live") return `<span class="badge live">${isLong(ev) ? (lang() === "bg" ? "Тече сега" : "On now") : t("live")}</span>`;
   if (st === "ended") return `<span class="badge ended">${t("endedBadge")}</span>`;
+  if (ev.tentative) return `<span class="badge tentative">${t("tentative")}</span>`;
   if (isFree(ev)) return `<span class="badge free">${t("free")}</span>`;
   return "";
 }
@@ -371,7 +372,7 @@ function viewDetail(id) {
       </div>
       <div>
         <span class="badge">${iconOf(ev)} ${esc(catLabel(ev))}</span>
-        ${st === "live" || st === "ended" ? statusBadge(ev) : ""}
+        ${st === "live" || st === "ended" || ev.tentative ? statusBadge(ev) : ""}
         <h1>${esc(titleOf(ev))}</h1>
       </div>
     </div>

@@ -222,6 +222,8 @@ img { max-width: 100%; display: block; }
 .badge.live { background: #ffe1e6; color: #c4183c; }
 .badge.live::before { content: ""; width: 7px; height: 7px; border-radius: 50%; background: currentColor; animation: blink 1.2s infinite; }
 .badge.ended { background: var(--chip); color: var(--muted); }
+.badge.tentative { background: #fff1c7; color: #8a5a00; }
+.badge.tentative::before { content: "≈"; font-size: 13px; line-height: 1; }
 .badge.free { background: color-mix(in srgb, var(--green) 25%, transparent); color: var(--green-deep); }
 @media (prefers-color-scheme: dark) { .badge.free { color: var(--green); } }
 

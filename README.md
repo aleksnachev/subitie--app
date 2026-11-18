@@ -24,7 +24,7 @@ GitHub (този repo) ──push──► Netlify ──► приложени�
 | `data/manual.json` | Ръчно въведени събития (може да се редактира директно в GitHub) |
 | `data/events.json` | **Генериран файл** — това чете приложението. Не го редактирайте на ръка. |
 | `scripts/build-events.mjs` | Събира всички източници → `events.json` |
-| `scripts/sources/` | Един файл = един източник: `20-visitplovdiv.mjs` (работи), `21-eventim.mjs` (изключен — чака разрешение от Eventim), `10-example-site.mjs` (шаблон за нов). |
+| `scripts/sources/` | Един файл = един източник: `20-visitplovdiv` (култура), `22-opoznaiplovdiv` (култура, бизнес), `30-racecalendar` и `31-kalendarbyagane` (бягане). `21-eventim` е изключен (чака разрешение). `10-example-site` е шаблон за нов. |
 | `.github/workflows/update-events.yml` | Дневното автоматично обновяване |
 
 ## Правила за събитията
