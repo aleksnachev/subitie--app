@@ -1,0 +1,37 @@
+name: Обнови събитията
+
+on:
+  schedule:
+    - cron: "0 4 * * *"   # всеки ден в 06:00 българско време (04:00 UTC)
+  workflow_dispatch:       # бутон „Run workflow“ в таб Actions за ръчно пускане
+  push:
+    paths:
+      - "data/manual.json"
+      - "scripts/**"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Събери събитията
+        run: node scripts/build-events.mjs
+        env:
+          SHEET_CSV_URL: ${{ vars.SHEET_CSV_URL }}
+      - name: Запиши, ако има промени
+        run: |
+          if git diff --quiet data/events.json; then
+            echo "Няма промени."
+          else
+            git config user.name "subitie-bot"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/events.json
+            git commit -m "Обновени събития $(date -u +%Y-%m-%d)"
+            git push
+          fi

@@ -1,0 +1,28 @@
+# Netlify: статичен сайт без build стъпка — публикува се самото repo.
+[build]
+  publish = "."
+  command = ""
+
+# Service worker-ът и данните никога не се кешират от браузъра,
+# за да стигат ъпдейтите до потребителите веднага.
+[[headers]]
+  for = "/sw.js"
+  [headers.values]
+    Cache-Control = "no-cache"
+
+[[headers]]
+  for = "/data/*"
+  [headers.values]
+    Cache-Control = "no-cache"
+
+[[headers]]
+  for = "/manifest.webmanifest"
+  [headers.values]
+    Content-Type = "application/manifest+json"
+    Cache-Control = "no-cache"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"

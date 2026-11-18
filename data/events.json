@@ -1,0 +1,412 @@
+{
+  "generatedAt": "2026-11-18T19:48:57.789Z",
+  "demo": true,
+  "count": 23,
+  "events": [
+    {
+      "id": "sabitie-izlozhba-tsvetovete-na-tepetata-2026-11-02",
+      "title": "Изложба „Цветовете на Тепетата“",
+      "title_en": "Exhibition “Colours of the Hills”",
+      "category": "exhibition",
+      "ages": [
+        "all"
+      ],
+      "start": "2026-11-02T08:00:00.000Z",
+      "end": "2026-12-13T16:00:00.000Z",
+      "venue": "Градска художествена галерия",
+      "price": "Безплатно",
+      "url": "https://www.visitplovdiv.com/",
+      "description": "Демо събитие. Живопис и фотография на млади пловдивски автори.",
+      "source": "съБИТИЕ+",
+      "demo": true
+    },
+    {
+      "id": "sabitie-esenna-dzhaz-vecher-v-kapana-2026-11-13",
+      "title": "Есенна джаз вечер в Капана",
+      "title_en": "Autumn jazz night in Kapana",
+      "category": "concert",
+      "ages": [
+        "18-40",
+        "40plus"
+      ],
+      "start": "2026-11-13T18:00:00.000Z",
+      "end": "2026-11-13T21:00:00.000Z",
+      "venue": "Квартал Капана",
+      "price": "10 €",
+      "organizer": "Демо организатор",
+      "url": "https://www.visitplovdiv.com/",
+      "description": "Демо събитие. Вечер с живо джаз изпълнение в сърцето на креативния квартал.",
+      "source": "съБИТИЕ+",
+      "demo": true
+    },
+    {
+      "id": "sabitie-esenen-kros-na-grebnata-baza-2026-11-15",
+      "title": "Есенен крос на Гребната база",
+      "title_en": "Autumn cross-country run",
+      "category": "running",
+      "ages": [
+        "all"
+      ],
+      "start": "2026-11-15T08:00:00.000Z",
+      "end": "2026-11-15T11:00:00.000Z",
+      "venue": "Гребна база Пловдив",
+      "price": "Безплатно",
+      "url": "https://www.visitplovdiv.com/",
+      "description": "Демо събитие. Бягане на 5 и 10 км за всички възрасти.",
+      "source": "съБИТИЕ+",
+      "demo": true
+    },
+    {
+      "id": "sabitie-hamlet-gostuvasht-spektakal-2026-11-18",
+      "title": "„Хамлет“ – гостуващ спектакъл",
+      "title_en": "Hamlet – guest performance",
+      "category": "theatre",
+      "ages": [
+        "18-40",
+        "40plus"
+      ],
+      "start": "2026-11-18T17:00:00.000Z",
+      "end": "2026-11-18T19:30:00.000Z",
+      "venue": "Драматичен театър Пловдив",
+      "price": "от 15 €",
+      "url": "https://www.eventim.bg/",
+      "description": "Демо събитие. Класиката на Шекспир в съвременен прочит.",
+      "source": "съБИТИЕ+",
+      "demo": true
+    },
+    {
+      "id": "sabitie-kak-da-zapochnesh-dobrovolchestvo-sreshta-2026-11-19",
+      "title": "Как да започнеш доброволчество – среща",
+      "title_en": "How to start volunteering – meetup",
+      "category": "volunteering",
+      "ages": [
+        "under18",
+        "18-40"
+      ],
+      "start": "2026-11-19T16:30:00.000Z",
+      "end": "2026-11-19T18:00:00.000Z",
+      "venue": "Младежки център Пловдив",
+      "price": "Безплатно",
+      "organizer": "Ученически съвет (демо)",
+      "url": "https://www.visitplovdiv.com/",
+      "description": "Демо събитие. Младежки организации разказват как да се включиш в каузи в града.",
+      "source": "съБИТИЕ+",
+      "demo": true
+    },
+    {
+      "id": "sabitie-stendap-vecher-v-kapana-2026-11-20",
+      "title": "Стендъп вечер в Капана",
+      "title_en": "Stand-up night in Kapana",
+      "category": "standup",
+      "ages": [
+        "18-40"
+      ],
+      "start": "2026-11-20T18:30:00.000Z",
+      "end": "2026-11-20T20:30:00.000Z",
+      "venue": "Квартал Капана",
+      "price": "12 €",
+      "url": "https://ticketstation.bg/",
+      "description": "Демо събитие. Трима комедианти, една сцена и много смях.",
+      "source": "съБИТИЕ+",
+      "demo": true
+    },
+    {
+      "id": "sabitie-pochistvane-na-mladezhkiya-halm-2026-11-21",
+      "title": "Почистване на Младежкия хълм",
+      "title_en": "Youth Hill clean-up",
+      "category": "volunteering",
+      "ages": [
+        "all"
+      ],
+      "start": "2026-11-21T08:00:00.000Z",
+      "end": "2026-11-21T11:00:00.000Z",
+      "venue": "Младежки хълм",
+      "price": "Безплатно",
+      "organizer": "Младежка организация (демо)",
+      "url": "https://www.visitplovdiv.com/",
+      "description": "Демо събитие. Ръкавици и чували осигуряваме ние — ти донеси настроение.",
+      "source": "съБИТИЕ+",
+      "demo": true
+    },
+    {
+      "id": "sabitie-futbol-lokomotiv-plovdiv-domakinski-mach-2026-11-21",
+      "title": "Футбол: Локомотив Пловдив – домакински мач",
+      "title_en": "Football: Lokomotiv Plovdiv home match",
+      "category": "football",
+      "ages": [
+        "all"
+      ],
+      "start": "2026-11-21T15:30:00.000Z",
+      "end": "2026-11-21T17:30:00.000Z",
+      "venue": "Стадион „Локомотив“",
+      "price": "от 8 €",
+      "url": "https://www.eventim.bg/",
+      "description": "Демо събитие. Мач от efbet Лига.",
+      "source": "съБИТИЕ+",
+      "demo": true
+    },
+    {
+      "id": "sabitie-opera-traviata-2026-11-21",
+      "title": "Опера „Травиата“",
+      "title_en": "Opera “La Traviata”",
+      "category": "opera",
+      "ages": [
+        "18-40",
+        "40plus"
+      ],
+      "start": "2026-11-21T17:00:00.000Z",
+      "end": "2026-11-21T19:45:00.000Z",
+      "venue": "Дом на културата „Борис Христов“",
+      "price": "от 20 €",
+      "url": "https://www.eventim.bg/",
+      "description": "Демо събитие. Шедьовърът на Верди в изпълнение на солисти, хор и оркестър.",
+      "source": "съБИТИЕ+",
+      "demo": true
+    },
+    {
+      "id": "sabitie-yoga-za-nachinaeshti-2026-11-22",
+      "title": "Йога за начинаещи",
+      "title_en": "Yoga for beginners",
+      "category": "fitness",
+      "ages": [
+        "18-40",
+        "40plus"
+      ],
+      "start": "2026-11-22T07:30:00.000Z",
+      "end": "2026-11-22T09:00:00.000Z",
+      "venue": "Цар Симеонова градина",
+      "price": "Безплатно",
+      "url": "https://www.visitplovdiv.com/",
+      "description": "Демо събитие. Донеси постелка — ние ще донесем доброто настроение.",
+      "source": "съБИТИЕ+",
+      "demo": true
+    },
+    {
+      "id": "sabitie-chervenata-shapchitsa-kuklen-spektakal-2026-11-22",
+      "title": "Червената шапчица – куклен спектакъл",
+      "title_en": "Little Red Riding Hood – puppet show",
+      "category": "puppet",
+      "ages": [
+        "all",
+        "under18"
+      ],
+      "start": "2026-11-22T09:00:00.000Z",
+      "end": "2026-11-22T10:00:00.000Z",
+      "venue": "Държавен куклен театър",
+      "price": "8 €",
+      "url": "https://ticketstation.bg/",
+      "description": "Демо събитие. Обичаната приказка за най-малките зрители.",
+      "source": "съБИТИЕ+",
+      "demo": true
+    },
+    {
+      "id": "sabitie-basketbol-akademik-plovdiv-domakinski-mach-2026-11-22",
+      "title": "Баскетбол: Академик Пловдив – домакински мач",
+      "title_en": "Basketball: Akademik Plovdiv home game",
+      "category": "basketball",
+      "ages": [
+        "all"
+      ],
+      "start": "2026-11-22T16:00:00.000Z",
+      "end": "2026-11-22T18:00:00.000Z",
+      "venue": "Спортна зала „Колодрума“",
+      "price": "5 €",
+      "url": "https://www.visitplovdiv.com/",
+      "description": "Демо събитие. Мач от НБЛ.",
+      "source": "съБИТИЕ+",
+      "demo": true
+    },
+    {
+      "id": "sabitie-rabotilnitsa-po-keramika-2026-11-24",
+      "title": "Работилница по керамика",
+      "title_en": "Ceramics workshop",
+      "category": "workshop",
+      "ages": [
+        "18-40",
+        "40plus"
+      ],
+      "start": "2026-11-24T16:00:00.000Z",
+      "end": "2026-11-24T18:30:00.000Z",
+      "venue": "Ателие в Стария град",
+      "price": "30 €",
+      "url": "https://www.visitplovdiv.com/",
+      "description": "Демо събитие. Направи своята първа чаша на грънчарско колело.",
+      "source": "съБИТИЕ+",
+      "demo": true
+    },
+    {
+      "id": "sabitie-simfonichen-kontsert-filharmoniya-plovdiv-2026-11-25",
+      "title": "Симфоничен концерт – Филхармония Пловдив",
+      "title_en": "Symphony concert – Plovdiv Philharmonic",
+      "category": "classical",
+      "ages": [
+        "all"
+      ],
+      "start": "2026-11-25T17:00:00.000Z",
+      "end": "2026-11-25T19:00:00.000Z",
+      "venue": "Дом на културата „Борис Христов“",
+      "price": "от 12 €",
+      "url": "https://www.eventim.bg/",
+      "description": "Демо събитие. Дворжак и Чайковски.",
+      "source": "съБИТИЕ+",
+      "demo": true
+    },
+    {
+      "id": "sabitie-studentsko-parti-kapana-nosht-2026-11-27",
+      "title": "Студентско парти „Капана Нощ“",
+      "title_en": "Student party “Kapana Night”",
+      "category": "party",
+      "ages": [
+        "18-40"
+      ],
+      "start": "2026-11-27T20:00:00.000Z",
+      "end": "2026-11-28T02:00:00.000Z",
+      "venue": "Квартал Капана",
+      "price": "7 €",
+      "url": "https://www.visitplovdiv.com/",
+      "description": "Демо събитие. DJ сетове до сутринта.",
+      "source": "съБИТИЕ+",
+      "demo": true
+    },
+    {
+      "id": "sabitie-uchenicheski-hakaton-kod-za-plovdiv-2026-11-28",
+      "title": "Ученически хакатон „Код за Пловдив“",
+      "title_en": "Student hackathon “Code for Plovdiv”",
+      "category": "youth",
+      "ages": [
+        "under18"
+      ],
+      "start": "2026-11-28T07:00:00.000Z",
+      "end": "2026-11-29T16:00:00.000Z",
+      "venue": "Младежки център Пловдив",
+      "price": "Безплатно",
+      "organizer": "Ученически съвет (демо)",
+      "url": "https://www.visitplovdiv.com/",
+      "description": "Демо събитие. 2 дни, отбори до 4 души, идеи за по-добър град.",
+      "source": "съБИТИЕ+",
+      "demo": true
+    },
+    {
+      "id": "sabitie-balgarski-kasometrazhni-filmi-2026-11-28",
+      "title": "Български късометражни филми",
+      "title_en": "Bulgarian short films night",
+      "category": "cinema",
+      "ages": [
+        "18-40",
+        "40plus"
+      ],
+      "start": "2026-11-28T17:30:00.000Z",
+      "end": "2026-11-28T19:30:00.000Z",
+      "venue": "Lucky Дом на киното",
+      "price": "6 €",
+      "url": "https://programata.bg/",
+      "description": "Демо събитие. Прожекция и разговор с авторите.",
+      "source": "съБИТИЕ+",
+      "demo": true
+    },
+    {
+      "id": "sabitie-festival-na-vinoto-i-hranata-2026-12-04",
+      "title": "Фестивал на виното и храната",
+      "title_en": "Wine & food festival",
+      "category": "food",
+      "ages": [
+        "18-40",
+        "40plus"
+      ],
+      "start": "2026-12-04T10:00:00.000Z",
+      "end": "2026-12-06T19:00:00.000Z",
+      "venue": "Международен панаир Пловдив",
+      "price": "от 10 €",
+      "url": "https://www.visitplovdiv.com/",
+      "description": "Демо събитие. Над 50 изби и местни производители.",
+      "source": "съБИТИЕ+",
+      "demo": true
+    },
+    {
+      "id": "sabitie-voleybol-maritsa-plovdiv-domakinski-mach-2026-12-05",
+      "title": "Волейбол: Марица Пловдив – домакински мач",
+      "title_en": "Volleyball: Maritsa Plovdiv home game",
+      "category": "volleyball",
+      "ages": [
+        "all"
+      ],
+      "start": "2026-12-05T15:00:00.000Z",
+      "end": "2026-12-05T17:00:00.000Z",
+      "venue": "Спортна зала „Колодрума“",
+      "price": "5 €",
+      "url": "https://www.visitplovdiv.com/",
+      "description": "Демо събитие.",
+      "source": "съБИТИЕ+",
+      "demo": true
+    },
+    {
+      "id": "sabitie-nikuldenski-kros-2026-12-06",
+      "title": "Никулденски крос",
+      "title_en": "St. Nicholas Day run",
+      "category": "running",
+      "ages": [
+        "all"
+      ],
+      "start": "2026-12-06T08:00:00.000Z",
+      "end": "2026-12-06T10:30:00.000Z",
+      "venue": "Гребна база Пловдив",
+      "price": "Безплатно",
+      "url": "https://www.visitplovdiv.com/",
+      "description": "Демо събитие. 3 и 8 км, детско бягане на 1 км.",
+      "source": "съБИТИЕ+",
+      "demo": true
+    },
+    {
+      "id": "sabitie-predstavyane-na-kniga-plovdivski-istorii-2026-12-10",
+      "title": "Представяне на книга: „Пловдивски истории“",
+      "title_en": "Book launch: “Plovdiv Stories”",
+      "category": "literature",
+      "ages": [
+        "all"
+      ],
+      "start": "2026-12-10T16:00:00.000Z",
+      "end": "2026-12-10T17:30:00.000Z",
+      "venue": "Народна библиотека „Иван Вазов“",
+      "price": "Безплатно",
+      "url": "https://www.visitplovdiv.com/",
+      "description": "Демо събитие.",
+      "source": "съБИТИЕ+",
+      "demo": true
+    },
+    {
+      "id": "sabitie-noshtna-razhodka-iz-stariya-grad-2026-12-12",
+      "title": "Нощна разходка из Стария град",
+      "title_en": "Night walk through the Old Town",
+      "category": "tour",
+      "ages": [
+        "all"
+      ],
+      "start": "2026-12-12T16:30:00.000Z",
+      "end": "2026-12-12T18:30:00.000Z",
+      "venue": "Античен театър (сборен пункт)",
+      "price": "10 €",
+      "url": "https://www.visitplovdiv.com/",
+      "description": "Демо събитие. Легенди и истории на 8000-годишния град.",
+      "source": "съБИТИЕ+",
+      "demo": true
+    },
+    {
+      "id": "sabitie-koleden-rok-kontsert-2026-12-19",
+      "title": "Коледен рок концерт",
+      "title_en": "Christmas rock concert",
+      "category": "concert",
+      "ages": [
+        "18-40",
+        "40plus"
+      ],
+      "start": "2026-12-19T18:00:00.000Z",
+      "end": "2026-12-19T21:00:00.000Z",
+      "venue": "Дом на културата „Борис Христов“",
+      "price": "от 18 €",
+      "url": "https://www.eventim.bg/",
+      "description": "Демо събитие.",
+      "source": "съБИТИЕ+",
+      "demo": true
+    }
+  ]
+}

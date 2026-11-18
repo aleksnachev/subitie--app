@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "съБИТИЕ+",
+  "short_name": "съБИТИЕ+",
+  "description": "Всички спортни и културни събития в Пловдив на едно място.",
+  "lang": "bg",
+  "start_url": "/?source=homescreen",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fffad7",
+  "theme_color": "#8327ae",
+  "categories": ["entertainment", "lifestyle", "sports"],
+  "icons": [
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
