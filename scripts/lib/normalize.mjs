@@ -12,7 +12,7 @@ const KEYWORDS = [
   ["football", /футбол|ботев|локомотив пд|локомотив пловдив|football/i],
   ["basketball", /баскетбол|basketball/i],
   ["volleyball", /волейбол|volleyball/i],
-  ["running", /маратон|бягане|крос|run\b|running|полумаратон/i],
+  ["running", /маратон|бягане|крос(?!фит)|\brun\b|running/i],
   ["cycling", /колоездене|велосипед|вело|cycling|bike/i],
   ["rowing", /гребане|гребна база|rowing|кану|каяк/i],
   ["tennis", /тенис|tennis/i],
@@ -21,7 +21,7 @@ const KEYWORDS = [
   ["opera", /опера|балет|opera|ballet/i],
   ["classical", /филхармония|симфони|камерн|класическ|орган|рецитал/i],
   ["puppet", /куклен/i],
-  ["theatre", /театър|постановка|премиера|спектакъл|пиеса|theatre/i],
+  ["theatre", /театър|постановка|премиера|спектакъл|пиеса|мюзикъл|theatre|musical/i],
   ["standup", /стендъп|stand-up|комеди/i],
   ["cinema", /кино|филм|прожекция|cinema|film/i],
   ["exhibition", /изложба|галерия|exhibition|експозиция/i],
@@ -35,7 +35,7 @@ const KEYWORDS = [
   ["kids", /за деца|детск|kids/i],
   ["party", /парти|party|dj\b/i],
   ["food", /вино|дегустация|храна|food|wine|гурме/i],
-  ["tour", /тур|разходка|обиколка|tour/i],
+  ["tour", /(^|[^а-я])тур([^а-я]|$)|разходка|обиколка|\btour\b/i],
   ["concert", /концерт|концерти|concert|live|рок|джаз|група/i],
 ];
 
@@ -56,7 +56,10 @@ export function normalize(raw, sourceName) {
   if (isNaN(start)) return null;
 
   let end = raw.end ? new Date(raw.end) : null;
-  if (!end || isNaN(end) || end < start) {
+  if ((!end || isNaN(end) || end < start) && !raw.allDay) {
+    // Има час на започване, но не и на край → приемаме ~3 часа (концерт, спектакъл, мач)
+    end = new Date(start.getTime() + 3 * 3600000);
+  } else if (!end || isNaN(end) || end < start) {
     // Без край → до края на деня (23:59 българско време)
     end = new Date(start.toLocaleString("en-US", { timeZone: "Europe/Sofia" }));
     const sofiaOffset = start.getTime() - end.getTime();
@@ -77,6 +80,7 @@ export function normalize(raw, sourceName) {
     start: start.toISOString(),
     end: end.toISOString(),
     allDay: !!raw.allDay || undefined,
+    sessions: raw.sessions > 1 ? raw.sessions : undefined,
     venue: raw.venue || undefined,
     address: raw.address || undefined,
     price: raw.price ?? undefined,
