@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T20:51:47.250Z",
+  "generatedAt": "2026-11-19T12:41:27.784Z",
   "demo": false,
   "count": 99,
   "events": [
@@ -1519,13 +1519,13 @@
       "ages": [
         "all"
       ],
-      "start": "2027-08-19T21:00:00.000Z",
-      "end": "2027-08-20T20:59:00.000Z",
-      "allDay": true,
+      "start": "2027-08-20T05:00:00.000Z",
+      "end": "2027-08-20T08:00:00.000Z",
       "tentative": true,
       "venue": "Асеновград",
-      "url": "https://www.kalendarbyagane.com/stranitsi-na-sastezaniyata/decathlon_persenk_ultra_2026/",
-      "description": "Вид: Трейл\nДистанции: 103.26 km, 81.22 km, 51.35 km, 25 km, 20 km\n⚠ Ориентировъчна дата (по миналогодишното издание) — проверете при организатора.",
+      "organizer": "Сдружение Български Ултрамаратони",
+      "url": "https://persenk-ultra.com/",
+      "description": "Вид: Трейл\nДистанции: 100 km, 80 km, 50 km, 25 km, 20 km\n⚠ Ориентировъчна дата (по миналогодишното издание) — проверете при организатора.",
       "source": "Календар Бягане"
     },
     {
