@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-22T12:25:02.369Z",
+  "generatedAt": "2026-11-23T14:15:25.065Z",
   "demo": false,
-  "count": 93,
+  "count": 84,
   "events": [
     {
       "id": "vp-16102",
@@ -35,24 +35,6 @@
       "url": "https://www.visitplovdiv.com/bg/node/16100",
       "image": "https://www.visitplovdiv.com/sites/default/files/%D0%B1%D0%B0%D0%BD%D0%B5%D1%80%2080.jpg",
       "description": "\r\n\r\nИзложбата „80“ е посветена на художника Минчо Панайотов. Заглавието символично обединява годините от живота му и броя на творбите в експозицията. Тя отдава почит на твореца и преподавателя, вдъхновил поколения художници със своята любов към изкуството и творческа свобода. В нея участват 46 художници от различни поколения, сред които Алек Александров, Бояна Попова, Емил Миразчиев, Моника Роменска и други утвърдени автори.\n\r\nОткриването е на 4 ноември 2026 г. от 18:00 ч. Куратори са Панайот Панайотов, Тодор Панайотов и Ирина Гърдева.\n\r\nНа 13 ноември 2026 г. от 15:00 ч. ще се проведе среща-разговор за Минчо Панайотов.\n\n\r\n\r\nИзложбата се реализира с финансовата подкрепа на Община Пловдив и е част от Културния календар на града за 2026 г.",
-      "source": "Visit Plovdiv"
-    },
-    {
-      "id": "vp-16104",
-      "title": "Празници на фолклорното хорово изкуство",
-      "category": "festival",
-      "ages": [
-        "all"
-      ],
-      "start": "2026-11-11T22:00:00.000Z",
-      "end": "2026-11-15T21:59:00.000Z",
-      "allDay": true,
-      "venue": "Малката базилика на Филипопол",
-      "price": "Безплатно",
-      "organizer": "Сдружение „Фолклор и Съвремие“",
-      "url": "https://www.visitplovdiv.com/bg/node/16104",
-      "image": "https://www.visitplovdiv.com/sites/default/files/843449286_122264566214120180_8806618487504893171_n.jpg",
-      "description": "\r\n\r\nФестивалът представя богатството на българската хорова култура и фолклорното песенно наследство чрез изпълнения на хорови формации от страната и чужбина. Създаден преди три години, той е пространство за творчески срещи, обмен на идеи и вдъхновение между диригенти и хористи.\n\r\nФестивалът няма конкурсен характер. Всяко издание събира до осем хорови формации, избрани чрез селекция, които представят разнообразието и красотата на българската хорова традиция.\n\r\nТази година програмата ще бъде открита от хор „Седянка“ от Дания, който изпълнява изцяло български фолклор. В откриващата вечер ще участва и Academic Folk Choir. В следващите дни публиката ще може да се наслади на изпълненията на хор „Тримонциум“ – Пловдив, „Евполпея“ – Пловдив, Вая квартет, формация „Елбетица“ – София, Народен хор при НУИ „П. Пипков“ – Плевен и Хорова школа „Свиленград“.",
       "source": "Visit Plovdiv"
     },
     {
@@ -296,36 +278,6 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "op-18927",
-      "title": "Новата лекция № 3 за силата на словото",
-      "category": "theatre",
-      "ages": [
-        "all"
-      ],
-      "start": "2026-11-23T17:00:00.000Z",
-      "end": "2026-11-23T20:00:00.000Z",
-      "venue": "Драматичен Театър Пловдив",
-      "address": "улица „Княз Александър I-ви“ 38",
-      "url": "https://opoznaiplovdiv.bg/listing/novata-lekcziya-%e2%84%96-3-za-silata-na-slovoto-v-dramatichen-teatar-plovdiv-23-11-2026/",
-      "image": "https://opoznaiplovdiv.bg/wp-content/uploads/2026/03/novata-lekcziya-№-3-za-silata-na-slovoto-v-dramatichen-teatar-22.04.2024-768x1034.webp",
-      "source": "Опознай Пловдив"
-    },
-    {
-      "id": "op-18855",
-      "title": "Бъди добъл",
-      "category": "puppet",
-      "ages": [
-        "all"
-      ],
-      "start": "2026-11-24T08:30:00.000Z",
-      "end": "2026-11-24T11:30:00.000Z",
-      "venue": "Куклен Театър Пловдив",
-      "address": "ул. „Христо Г. Данов“ 14",
-      "url": "https://opoznaiplovdiv.bg/listing/badi-dobal-v-kuklen-teatar-plovdiv-03-11-24-11-2026/",
-      "image": "https://opoznaiplovdiv.bg/wp-content/uploads/2026/10/badi-dobal-v-kuklen-teatar-plovdiv-13.10.2026-768x511.jpg",
-      "source": "Опознай Пловдив"
-    },
-    {
       "id": "vp-16082-25",
       "title": "Арт",
       "category": "theatre",
@@ -371,20 +323,6 @@
       "image": "https://www.visitplovdiv.com/sites/default/files/Screenshot%202026-10-15%20141407.png",
       "description": "от Робер Тома",
       "source": "Visit Plovdiv"
-    },
-    {
-      "id": "op-19042",
-      "title": "Събитие за бизнес собственици на BNI",
-      "category": "other",
-      "ages": [
-        "all"
-      ],
-      "start": "2026-11-26T05:45:00.000Z",
-      "end": "2026-11-26T08:45:00.000Z",
-      "venue": "ул. „Лев Толстой“ 6",
-      "url": "https://opoznaiplovdiv.bg/listing/sabitie-za-biznes-sobstveniczi-na-bni-26-11-2026/",
-      "image": "https://opoznaiplovdiv.bg/wp-content/uploads/2026/11/sabitie-za-biznes-sobstveniczi-na-bni-26.11.2026-768x432.jpg",
-      "source": "Опознай Пловдив"
     },
     {
       "id": "vp-16086-6",
@@ -433,36 +371,6 @@
       "image": "https://www.visitplovdiv.com/sites/default/files/Screenshot%202026-10-15%20141407.png",
       "description": "от Стефан Цанев",
       "source": "Visit Plovdiv"
-    },
-    {
-      "id": "op-18936",
-      "title": "Влюбеният дирижабъл. Съдбата на поета.",
-      "category": "theatre",
-      "ages": [
-        "all"
-      ],
-      "start": "2026-11-26T17:00:00.000Z",
-      "end": "2026-11-26T20:00:00.000Z",
-      "venue": "Драматичен Театър Пловдив",
-      "address": "улица „Княз Александър I-ви“ 38",
-      "url": "https://opoznaiplovdiv.bg/listing/vlyubeniyat-dirizhabal-sadbata-na-poeta-v-dramatichen-teatar-plovdiv-26-11-2026/",
-      "image": "https://opoznaiplovdiv.bg/wp-content/uploads/2026/09/vlyubeniyat-dirizhabal.-sadbata-na-poeta.-v-dramatichen-teatar-plovdiv-27.10.2026-768x512.webp",
-      "source": "Опознай Пловдив"
-    },
-    {
-      "id": "op-18898",
-      "title": "Дама Пика",
-      "category": "puppet",
-      "ages": [
-        "all"
-      ],
-      "start": "2026-11-26T17:00:00.000Z",
-      "end": "2026-11-26T20:00:00.000Z",
-      "venue": "Куклен Театър Пловдив",
-      "address": "ул. „Христо Г. Данов“ 14",
-      "url": "https://opoznaiplovdiv.bg/listing/dama-pika-v-kuklen-teatar-plovdiv-26-11-2026/",
-      "image": "https://opoznaiplovdiv.bg/wp-content/uploads/2026/03/dama-pika-v-darzhaven-kuklen-teatar-02.04.2026-768x511.jpg",
-      "source": "Опознай Пловдив"
     },
     {
       "id": "vp-16072",
@@ -543,21 +451,6 @@
       "image": "https://www.visitplovdiv.com/sites/default/files/839915080_1118982081114136_83616868086020056_n.png",
       "description": "\r\n\r\nSaké се завръща в Пловдив с още по-мащабно събитие, по-голяма локация и впечатляващ артистичен състав. Палата 2 на Международен панаир Пловдив ще се превърне в център на електронната музика с фестивална зона от над 3000 кв. м и седем артисти.\n\r\nХедлайнер на събитието ще бъде INNELLEA – един от най-актуалните артисти на електронната сцена през последните години. Със своя динамичен и енергичен звук той ще поведе публиката към окото на бурята и ще постави началото на една незабравима музикална нощ.\n\r\nТри десетилетия след последното подобно събитие Международен панаир Пловдив отново ще пулсира в ритъма на електронната музика – този път с продукция от съвсем различен мащаб.",
       "source": "Visit Plovdiv"
-    },
-    {
-      "id": "op-18854",
-      "title": "Косе Босе",
-      "category": "puppet",
-      "ages": [
-        "all"
-      ],
-      "start": "2026-11-29T08:30:00.000Z",
-      "end": "2026-11-29T11:30:00.000Z",
-      "venue": "Куклен Театър",
-      "address": "ул. „Христо Г. Данов“ 14",
-      "url": "https://opoznaiplovdiv.bg/listing/kose-bose-v-kuklen-teatar-01-11-29-11-2026/",
-      "image": "https://opoznaiplovdiv.bg/wp-content/uploads/2026/02/kose-bose-v-darzhaven-kuklen-teatar-28.02.2026-768x512.jpg",
-      "source": "Опознай Пловдив"
     },
     {
       "id": "vp-16082-31",
@@ -830,20 +723,6 @@
       "image": "https://www.visitplovdiv.com/sites/default/files/Screenshot%202026-11-11%20124238.png",
       "description": "от Джузепе Берто",
       "source": "Visit Plovdiv"
-    },
-    {
-      "id": "op-19074",
-      "title": "Нощта на предприемачите - Christmas Party",
-      "category": "party",
-      "ages": [
-        "all"
-      ],
-      "start": "2026-12-09T17:00:00.000Z",
-      "end": "2026-12-09T20:00:00.000Z",
-      "venue": "бул. „Санкт Петербург“ 131",
-      "url": "https://opoznaiplovdiv.bg/listing/nosthta-na-pre/",
-      "image": "https://opoznaiplovdiv.bg/wp-content/uploads/2026/11/nosthta-na-predpriemachite-christmas-party-09.12.2026-768x403.jpg",
-      "source": "Опознай Пловдив"
     },
     {
       "id": "vp-16110-13",
@@ -1273,20 +1152,6 @@
       "url": "https://bfla.org",
       "description": "Вид: Друго\nДистанции: 10 km\n⚠ Ориентировъчна дата (по миналогодишното издание) — проверете при организатора.",
       "source": "Календар Бягане"
-    },
-    {
-      "id": "op-16285",
-      "title": "THE FUN ХЪЛМ 2027",
-      "category": "theatre",
-      "ages": [
-        "all"
-      ],
-      "start": "2027-05-14T08:00:00.000Z",
-      "end": "2027-05-14T11:00:00.000Z",
-      "venue": "улица „Младежки хълм“ 14",
-      "url": "https://opoznaiplovdiv.bg/listing/the-fun-halm-2027/",
-      "image": "https://opoznaiplovdiv.bg/wp-content/uploads/2026/07/the-fun-halm-2027-768x403.jpg",
-      "source": "Опознай Пловдив"
     },
     {
       "id": "kb-mezhdunaroden_turnir_plovdiv-20270522",
