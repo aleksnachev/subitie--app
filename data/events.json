@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-23T14:15:25.065Z",
+  "generatedAt": "2026-11-24T14:40:58.104Z",
   "demo": false,
-  "count": 84,
+  "count": 90,
   "events": [
     {
       "id": "vp-16102",
@@ -38,35 +38,20 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16082-14",
-      "title": "Коприна",
-      "category": "theatre",
+      "id": "vp-16110",
+      "title": "Киномания в Пловдив",
+      "category": "cinema",
       "ages": [
         "all"
       ],
-      "start": "2026-11-16T17:00:00.000Z",
-      "end": "2026-11-16T20:00:00.000Z",
-      "venue": "Драматичен театър Пловдив – Голяма зала",
-      "organizer": "Драматичен театър – Пловдив",
-      "url": "https://dtp.bg/show/koprina",
-      "image": "https://www.visitplovdiv.com/sites/default/files/Screenshot%202026-10-15%20141407.png",
-      "description": "по Алесандро Барико",
-      "source": "Visit Plovdiv"
-    },
-    {
-      "id": "vp-16058",
-      "title": "Тестостерон",
-      "category": "theatre",
-      "ages": [
-        "all"
-      ],
-      "start": "2026-11-16T17:00:00.000Z",
-      "end": "2026-11-16T20:00:00.000Z",
-      "venue": "Дом на културата „Борис Христов“",
-      "organizer": "Виа Арс ЕООД",
-      "url": "https://www.visitplovdiv.com/bg/node/16058",
-      "image": "https://www.visitplovdiv.com/sites/default/files/814226763_3680426832109141_5621411921441419613_n.jpg",
-      "description": "\r\n\r\nСпектакълът „Тестостерон“ от Анджей Сарамонович, под режисурата на Богдан Петканин, гостува в Пловдив, за да превърне сцената в арена на мъжки страсти, хумор без филтър и болезнено откровени истини.\n\r\nИсторията започва с един от най-абсурдните житейски сценарии – сватба, която така и не се състои. Любимата избягва още преди олтара, а изоставеният младоженец и неговата компания се оказват въвлечени в свят на кървави битки, липсващи предни зъби, неочаквани приятелства и безпощаден сблъсък с мъжкото его.\n\r\nС много самоирония, неподправена енергия и черен хумор спектакълът поставя вечния въпрос: Какво всъщност правят мъжете, когато жените ги няма?\n\r\nВ звездния актьорски състав са Кирил Ефремов, Петър Данов, Петър Петков – Шайбата, Борислав Вълов (Ей Бо), Богдан Казанджиев, Алекс Иванов и Силвестър.",
+      "start": "2026-11-11T22:00:00.000Z",
+      "end": "2026-12-29T21:59:00.000Z",
+      "allDay": true,
+      "venue": "Lucky Дом на киното",
+      "organizer": "Lucky Дом на киното",
+      "url": "https://www.visitplovdiv.com/bg/node/16110",
+      "image": "https://www.visitplovdiv.com/sites/default/files/Screenshot%202026-11-12%20114058.png",
+      "description": "\r\n\r\nФестивалът Киномания се завръща в Пловдив с 18 дни кино и 23 заглавия от водещи режисьори и актьори на съвременното световно кино.\n\r\nОфициалното откриване е на 12 ноември с „Див кон девет“ – най-новия филм на Мартин Макдона, с участието на Джон Малкович, Сам Рокуел и Стив Бушеми.\n\r\nПрограмата включва филми на утвърдени режисьори като Хирокадзу Корееда, Кристиан Мунджиу, Андрей Звягинцев, Джеймс Грей и Родриго Сорогойен. Сред акцентите са отличени продукции от престижни международни кинофестивали, сред които носителите на „Златна палма“, „Златен лъв“ и „Златна мечка“.\n\n\r\n\r\nПовече информация за събитието и програма: facebook\n\n\r\n\r\nФестивалът се провежда с подкрепата на Община Пловдив и е част от Културния календар на града за 2026 г.",
       "source": "Visit Plovdiv"
     },
     {
@@ -179,6 +164,24 @@
       "url": "https://dtp.bg/show/name-ihlcyi",
       "image": "https://www.visitplovdiv.com/sites/default/files/Screenshot%202026-10-15%20141407.png",
       "description": "от Йордан Йовков",
+      "source": "Visit Plovdiv"
+    },
+    {
+      "id": "vp-16109",
+      "title": "Коледа в Пловдив",
+      "category": "festival",
+      "ages": [
+        "all"
+      ],
+      "start": "2026-11-19T22:00:00.000Z",
+      "end": "2027-01-03T21:59:00.000Z",
+      "allDay": true,
+      "venue": "За контакт във връзка с културната програма: 0896674908 - Сребрена Григорова",
+      "price": "Безплатно",
+      "organizer": "Община Пловдив",
+      "url": "https://www.visitplovdiv.com/bg/node/16109",
+      "image": "https://www.visitplovdiv.com/sites/default/files/897547145_2007404134206193_2156149651951537907_n_0.jpg",
+      "description": "\r\nЗа контакт във връзка поставяне на преместваеми обекти:\n\r\nОбявление: https://www.plovdiv.bg/wp-content/uploads/2026/10/ObyavlenieKoleda2.pdf\n\r\nСхема: https://www.plovdiv.bg/wp-content/uploads/2026/10/ShemaKoleda.pdf",
       "source": "Visit Plovdiv"
     },
     {
@@ -325,6 +328,20 @@
       "source": "Visit Plovdiv"
     },
     {
+      "id": "op-19042",
+      "title": "Събитие за бизнес собственици на BNI",
+      "category": "other",
+      "ages": [
+        "all"
+      ],
+      "start": "2026-11-26T05:45:00.000Z",
+      "end": "2026-11-26T08:45:00.000Z",
+      "venue": "ул. „Лев Толстой“ 6",
+      "url": "https://opoznaiplovdiv.bg/listing/sabitie-za-biznes-sobstveniczi-na-bni-26-11-2026/",
+      "image": "https://opoznaiplovdiv.bg/wp-content/uploads/2026/11/sabitie-za-biznes-sobstveniczi-na-bni-26.11.2026-768x432.jpg",
+      "source": "Опознай Пловдив"
+    },
+    {
       "id": "vp-16086-6",
       "title": "Турандот",
       "category": "opera",
@@ -371,6 +388,36 @@
       "image": "https://www.visitplovdiv.com/sites/default/files/Screenshot%202026-10-15%20141407.png",
       "description": "от Стефан Цанев",
       "source": "Visit Plovdiv"
+    },
+    {
+      "id": "op-18936",
+      "title": "Влюбеният дирижабъл. Съдбата на поета.",
+      "category": "theatre",
+      "ages": [
+        "all"
+      ],
+      "start": "2026-11-26T17:00:00.000Z",
+      "end": "2026-11-26T20:00:00.000Z",
+      "venue": "Драматичен Театър Пловдив",
+      "address": "улица „Княз Александър I-ви“ 38",
+      "url": "https://opoznaiplovdiv.bg/listing/vlyubeniyat-dirizhabal-sadbata-na-poeta-v-dramatichen-teatar-plovdiv-26-11-2026/",
+      "image": "https://opoznaiplovdiv.bg/wp-content/uploads/2026/09/vlyubeniyat-dirizhabal.-sadbata-na-poeta.-v-dramatichen-teatar-plovdiv-27.10.2026-768x512.webp",
+      "source": "Опознай Пловдив"
+    },
+    {
+      "id": "op-18898",
+      "title": "Дама Пика",
+      "category": "puppet",
+      "ages": [
+        "all"
+      ],
+      "start": "2026-11-26T17:00:00.000Z",
+      "end": "2026-11-26T20:00:00.000Z",
+      "venue": "Куклен Театър Пловдив",
+      "address": "ул. „Христо Г. Данов“ 14",
+      "url": "https://opoznaiplovdiv.bg/listing/dama-pika-v-kuklen-teatar-plovdiv-26-11-2026/",
+      "image": "https://opoznaiplovdiv.bg/wp-content/uploads/2026/03/dama-pika-v-darzhaven-kuklen-teatar-02.04.2026-768x511.jpg",
+      "source": "Опознай Пловдив"
     },
     {
       "id": "vp-16072",
@@ -453,6 +500,21 @@
       "source": "Visit Plovdiv"
     },
     {
+      "id": "op-18854",
+      "title": "Косе Босе",
+      "category": "puppet",
+      "ages": [
+        "all"
+      ],
+      "start": "2026-11-29T08:30:00.000Z",
+      "end": "2026-11-29T11:30:00.000Z",
+      "venue": "Куклен Театър",
+      "address": "ул. „Христо Г. Данов“ 14",
+      "url": "https://opoznaiplovdiv.bg/listing/kose-bose-v-kuklen-teatar-01-11-29-11-2026/",
+      "image": "https://opoznaiplovdiv.bg/wp-content/uploads/2026/02/kose-bose-v-darzhaven-kuklen-teatar-28.02.2026-768x512.jpg",
+      "source": "Опознай Пловдив"
+    },
+    {
       "id": "vp-16082-31",
       "title": "Уют",
       "category": "theatre",
@@ -485,7 +547,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-1",
+      "id": "vp-16113-1",
       "title": "Отблизо",
       "category": "theatre",
       "ages": [
@@ -501,7 +563,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-2",
+      "id": "vp-16113-2",
       "title": "Лекция № 2 за всеобщата просвета",
       "category": "theatre",
       "ages": [
@@ -517,7 +579,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-3",
+      "id": "vp-16113-3",
       "title": "Елизабет или кралицата девственица",
       "category": "theatre",
       "ages": [
@@ -533,7 +595,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-4",
+      "id": "vp-16113-4",
       "title": "Берлин, Берлин",
       "category": "theatre",
       "ages": [
@@ -549,7 +611,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-5",
+      "id": "vp-16113-5",
       "title": "Догодина по същото време",
       "category": "theatre",
       "ages": [
@@ -581,6 +643,22 @@
       "source": "Visit Plovdiv"
     },
     {
+      "id": "vp-16113-6",
+      "title": "Ръкомахане в Спокáн",
+      "category": "theatre",
+      "ages": [
+        "all"
+      ],
+      "start": "2026-12-04T17:00:00.000Z",
+      "end": "2026-12-04T20:00:00.000Z",
+      "venue": "Драматичен театър Пловдив – Камерна зала",
+      "organizer": "Драматичен театър – Пловдив",
+      "url": "https://dtp.bg/show/rakomahane-v-spokan",
+      "image": "https://www.visitplovdiv.com/sites/default/files/Screenshot%202026-11-11%20124238.png",
+      "description": "от Мартин Макдона",
+      "source": "Visit Plovdiv"
+    },
+    {
       "id": "vp-16112-1",
       "title": "Лешникотрошачката",
       "category": "opera",
@@ -594,22 +672,6 @@
       "url": "https://operaplovdiv.bg/bg/performance/details?id=398",
       "image": "https://www.visitplovdiv.com/sites/default/files/615868393_1438573887631507_7134188443181417681_n.jpg",
       "description": "Балет",
-      "source": "Visit Plovdiv"
-    },
-    {
-      "id": "vp-16110-6",
-      "title": "Ръкомахане в Спокáн",
-      "category": "theatre",
-      "ages": [
-        "all"
-      ],
-      "start": "2026-12-04T17:00:00.000Z",
-      "end": "2026-12-04T20:00:00.000Z",
-      "venue": "Драматичен театър Пловдив – Камерна зала",
-      "organizer": "Драматичен театър – Пловдив",
-      "url": "https://dtp.bg/show/rakomahane-v-spokan",
-      "image": "https://www.visitplovdiv.com/sites/default/files/Screenshot%202026-11-11%20124238.png",
-      "description": "от Мартин Макдона",
       "source": "Visit Plovdiv"
     },
     {
@@ -629,7 +691,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-7",
+      "id": "vp-16113-7",
       "title": "Бариерата",
       "category": "theatre",
       "ages": [
@@ -645,7 +707,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-8",
+      "id": "vp-16113-8",
       "title": "С най-голямо уважение",
       "category": "theatre",
       "ages": [
@@ -661,7 +723,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-9",
+      "id": "vp-16113-9",
       "title": "Без кръв",
       "category": "theatre",
       "ages": [
@@ -677,7 +739,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-10",
+      "id": "vp-16113-10",
       "title": "Нирвана",
       "category": "theatre",
       "ages": [
@@ -693,7 +755,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-11",
+      "id": "vp-16113-11",
       "title": "Едип и пророците",
       "category": "theatre",
       "ages": [
@@ -709,7 +771,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-12",
+      "id": "vp-16113-12",
       "title": "Венецианска загадка",
       "category": "theatre",
       "ages": [
@@ -725,7 +787,21 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-13",
+      "id": "op-19074",
+      "title": "Нощта на предприемачите - Christmas Party",
+      "category": "party",
+      "ages": [
+        "all"
+      ],
+      "start": "2026-12-09T17:00:00.000Z",
+      "end": "2026-12-09T20:00:00.000Z",
+      "venue": "бул. „Санкт Петербург“ 131",
+      "url": "https://opoznaiplovdiv.bg/listing/nosthta-na-pre/",
+      "image": "https://opoznaiplovdiv.bg/wp-content/uploads/2026/11/nosthta-na-predpriemachite-christmas-party-09.12.2026-768x403.jpg",
+      "source": "Опознай Пловдив"
+    },
+    {
+      "id": "vp-16113-13",
       "title": "Капан за самотен мъж",
       "category": "theatre",
       "ages": [
@@ -773,7 +849,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-14",
+      "id": "vp-16113-14",
       "title": "Одисей",
       "category": "theatre",
       "ages": [
@@ -789,7 +865,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-15",
+      "id": "vp-16113-15",
       "title": "Цигуларката на Бога",
       "category": "theatre",
       "ages": [
@@ -805,7 +881,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-16",
+      "id": "vp-16113-16",
       "title": "Укротяване на опърничавата",
       "category": "theatre",
       "ages": [
@@ -821,7 +897,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-17",
+      "id": "vp-16113-17",
       "title": "Мартин, Данчо и майка им",
       "category": "theatre",
       "ages": [
@@ -837,7 +913,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-18",
+      "id": "vp-16113-18",
       "title": "Дреднаути. Пиеса за женска публика.",
       "category": "theatre",
       "ages": [
@@ -853,7 +929,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-19",
+      "id": "vp-16113-19",
       "title": "Записки по българските въстания",
       "category": "theatre",
       "ages": [
@@ -869,7 +945,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-20",
+      "id": "vp-16113-20",
       "title": "Влюбеният дирижабъл",
       "category": "theatre",
       "ages": [
@@ -901,23 +977,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16112-5",
-      "title": "Семирамида",
-      "category": "opera",
-      "ages": [
-        "all"
-      ],
-      "start": "2026-12-18T17:00:00.000Z",
-      "end": "2026-12-18T20:00:00.000Z",
-      "venue": "Дом на културата „Борис Христов“",
-      "organizer": "Държавна опера Пловдив",
-      "url": "https://operaplovdiv.bg/bg/performance/details?id=552",
-      "image": "https://www.visitplovdiv.com/sites/default/files/615868393_1438573887631507_7134188443181417681_n.jpg",
-      "description": "Опера – премиера",
-      "source": "Visit Plovdiv"
-    },
-    {
-      "id": "vp-16110-21",
+      "id": "vp-16113-21",
       "title": "Английски прозорец",
       "category": "theatre",
       "ages": [
@@ -933,7 +993,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-22",
+      "id": "vp-16113-22",
       "title": "Нирвана",
       "category": "theatre",
       "ages": [
@@ -946,6 +1006,22 @@
       "url": "https://dtp.bg/show/nirvana",
       "image": "https://www.visitplovdiv.com/sites/default/files/Screenshot%202026-11-11%20124238.png",
       "description": "от Константин Илиев",
+      "source": "Visit Plovdiv"
+    },
+    {
+      "id": "vp-16112-5",
+      "title": "Семирамида",
+      "category": "opera",
+      "ages": [
+        "all"
+      ],
+      "start": "2026-12-18T17:00:00.000Z",
+      "end": "2026-12-18T20:00:00.000Z",
+      "venue": "Дом на културата „Борис Христов“",
+      "organizer": "Държавна опера Пловдив",
+      "url": "https://operaplovdiv.bg/bg/performance/details?id=552",
+      "image": "https://www.visitplovdiv.com/sites/default/files/615868393_1438573887631507_7134188443181417681_n.jpg",
+      "description": "Опера – премиера",
       "source": "Visit Plovdiv"
     },
     {
@@ -965,7 +1041,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-23",
+      "id": "vp-16113-23",
       "title": "Коприна",
       "category": "theatre",
       "ages": [
@@ -981,7 +1057,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-24",
+      "id": "vp-16113-24",
       "title": "Уют",
       "category": "theatre",
       "ages": [
@@ -997,7 +1073,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-25",
+      "id": "vp-16113-25",
       "title": "Концерт-спектакълът „Коледна приказка“",
       "category": "theatre",
       "ages": [
@@ -1029,7 +1105,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-26",
+      "id": "vp-16113-26",
       "title": "Арт",
       "category": "theatre",
       "ages": [
@@ -1154,6 +1230,20 @@
       "source": "Календар Бягане"
     },
     {
+      "id": "op-16285",
+      "title": "THE FUN ХЪЛМ 2027",
+      "category": "theatre",
+      "ages": [
+        "all"
+      ],
+      "start": "2027-05-14T08:00:00.000Z",
+      "end": "2027-05-14T11:00:00.000Z",
+      "venue": "улица „Младежки хълм“ 14",
+      "url": "https://opoznaiplovdiv.bg/listing/the-fun-halm-2027/",
+      "image": "https://opoznaiplovdiv.bg/wp-content/uploads/2026/07/the-fun-halm-2027-768x403.jpg",
+      "source": "Опознай Пловдив"
+    },
+    {
       "id": "kb-mezhdunaroden_turnir_plovdiv-20270522",
       "title": "Международен турнир \"Пловдив\"",
       "category": "running",
@@ -1262,9 +1352,10 @@
       "end": "2027-07-31T20:59:00.000Z",
       "allDay": true,
       "tentative": true,
-      "venue": "Пловдив",
-      "url": "https://www.kalendarbyagane.com/stranitsi-na-sastezaniyata/shoseini_biaganiia_plovdiv_2026_1_milia/",
-      "description": "Вид: Шосейно бягане\nДистанции: 5 km\n⚠ Ориентировъчна дата (по миналогодишното издание) — проверете при организатора.",
+      "venue": "Гребният канал, Пловдив",
+      "organizer": "СК Актив 2013",
+      "url": "https://skactive2013.com/road-running-plovdiv/",
+      "description": "Вид: Шосейно бягане\nДистанции: 1.61 km\n⚠ Ориентировъчна дата (по миналогодишното издание) — проверете при организатора.",
       "source": "Календар Бягане"
     },
     {
