@@ -1399,6 +1399,22 @@
       "source": "bilet.bg"
     },
     {
+      "id": "vp-16112-5",
+      "title": "Семирамида",
+      "category": "opera",
+      "ages": [
+        "all"
+      ],
+      "start": "2026-12-18T17:00:00.000Z",
+      "end": "2026-12-18T20:00:00.000Z",
+      "venue": "Дом на културата „Борис Христов“",
+      "organizer": "Държавна опера Пловдив",
+      "url": "https://operaplovdiv.bg/bg/performance/details?id=552",
+      "image": "https://www.visitplovdiv.com/sites/default/files/615868393_1438573887631507_7134188443181417681_n.jpg",
+      "description": "Опера – премиера",
+      "source": "Visit Plovdiv"
+    },
+    {
       "id": "vp-16112-6",
       "title": "Лепило за брада",
       "category": "opera",
