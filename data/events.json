@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-18T20:49:46.186Z",
+  "generatedAt": "2026-11-25T20:01:21.605Z",
   "demo": false,
-  "count": 99,
+  "count": 121,
   "events": [
     {
       "id": "vp-16102",
@@ -38,196 +38,20 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16104",
-      "title": "Празници на фолклорното хорово изкуство",
-      "category": "festival",
+      "id": "vp-16110",
+      "title": "Киномания в Пловдив",
+      "category": "cinema",
       "ages": [
         "all"
       ],
       "start": "2026-11-11T22:00:00.000Z",
-      "end": "2026-11-15T21:59:00.000Z",
+      "end": "2026-12-29T21:59:00.000Z",
       "allDay": true,
-      "venue": "Малката базилика на Филипопол",
-      "price": "Безплатно",
-      "organizer": "Сдружение „Фолклор и Съвремие“",
-      "url": "https://www.visitplovdiv.com/bg/node/16104",
-      "image": "https://www.visitplovdiv.com/sites/default/files/843449286_122264566214120180_8806618487504893171_n.jpg",
-      "description": "\r\n\r\nФестивалът представя богатството на българската хорова култура и фолклорното песенно наследство чрез изпълнения на хорови формации от страната и чужбина. Създаден преди три години, той е пространство за творчески срещи, обмен на идеи и вдъхновение между диригенти и хористи.\n\r\nФестивалът няма конкурсен характер. Всяко издание събира до осем хорови формации, избрани чрез селекция, които представят разнообразието и красотата на българската хорова традиция.\n\r\nТази година програмата ще бъде открита от хор „Седянка“ от Дания, който изпълнява изцяло български фолклор. В откриващата вечер ще участва и Academic Folk Choir. В следващите дни публиката ще може да се наслади на изпълненията на хор „Тримонциум“ – Пловдив, „Евполпея“ – Пловдив, Вая квартет, формация „Елбетица“ – София, Народен хор при НУИ „П. Пипков“ – Плевен и Хорова школа „Свиленград“.",
-      "source": "Visit Plovdiv"
-    },
-    {
-      "id": "vp-16108",
-      "title": "Камерна сцена Пловдив 2026: Проблясък",
-      "category": "classical",
-      "ages": [
-        "all"
-      ],
-      "start": "2026-11-12T17:00:00.000Z",
-      "end": "2026-11-12T20:00:00.000Z",
-      "venue": "Първо студио на Радио Пловдив",
-      "organizer": "Камерна сцена Пловдив",
-      "url": "https://www.visitplovdiv.com/bg/node/16108",
-      "image": "https://www.visitplovdiv.com/sites/default/files/%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%20%D0%AF%D1%81%D0%B5%D0%BD%D0%BE%D0%B2_%20%D0%9F%D1%80%D0%BE%D0%B1%D0%BB%D1%8F%D1%81%D1%8A%D0%BA%20%D0%BD%D0%B0%20%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%82%D0%B0.png",
-      "description": "\r\n\r\n„Проблясък“ представя произведения в аранжименти за квартет, квинтет и секстет, разкриващи богатството на тембровите съчетания и музикалните взаимодействия. За първи път тези композиции ще прозвучат на сцена, получавайки нов живот в изпълнението на „Борислав Ясенов Квартет“( Борислав Ясенов – флейта, Живко Братанов – пиано, Радослав Паунов – бас китара и Александър Каменов – ударни инструменти) със специалното участие на двама изявени джаз музиканти – тромпетиста Михаил Йосифов и саксофониста Владимир Кърпаров.\n\r\nС дългогодишна концертна дейност в областта на класическата музика и джаза, проф. д-р Борислав Ясенов е сред музикантите, които последователно изследват възможностите на флейтата в различни стилистични и художествени контексти. Като солист, композитор и ръководител на собствени формации, той си партнира с редица утвърдени имена, сред които Милчо Левиев, Анатолий Вапиров, Огн",
-      "source": "Visit Plovdiv"
-    },
-    {
-      "id": "vp-16082-13",
-      "title": "Дебелянов и ангелите",
-      "category": "theatre",
-      "ages": [
-        "all"
-      ],
-      "start": "2026-11-12T17:00:00.000Z",
-      "end": "2026-11-12T20:00:00.000Z",
-      "venue": "Драматичен театър Пловдив – Голяма зала",
-      "organizer": "Драматичен театър – Пловдив",
-      "url": "https://dtp.bg/show/debelyanov-i-angelite",
-      "image": "https://www.visitplovdiv.com/sites/default/files/Screenshot%202026-10-15%20141407.png",
-      "description": "от Александър Секулов. Използвани са текстове от „Слепия градинар“ на Валери Стефанов",
-      "source": "Visit Plovdiv"
-    },
-    {
-      "id": "vp-16086-3",
-      "title": "Царицата на чардаша",
-      "category": "opera",
-      "ages": [
-        "all"
-      ],
-      "start": "2026-11-14T17:00:00.000Z",
-      "end": "2026-11-14T20:00:00.000Z",
-      "venue": "Дом на културата „Борис Христов“",
-      "organizer": "Държавна опера Пловдив",
-      "url": "https://operaplovdiv.bg/bg/performance/details?id=553",
-      "image": "https://www.visitplovdiv.com/sites/default/files/615868393_1438573887631507_7134188443181417681_n.jpg",
-      "description": "Оперета",
-      "source": "Visit Plovdiv"
-    },
-    {
-      "id": "vp-16082-14",
-      "title": "Коприна",
-      "category": "theatre",
-      "ages": [
-        "all"
-      ],
-      "start": "2026-11-16T17:00:00.000Z",
-      "end": "2026-11-16T20:00:00.000Z",
-      "venue": "Драматичен театър Пловдив – Голяма зала",
-      "organizer": "Драматичен театър – Пловдив",
-      "url": "https://dtp.bg/show/koprina",
-      "image": "https://www.visitplovdiv.com/sites/default/files/Screenshot%202026-10-15%20141407.png",
-      "description": "по Алесандро Барико",
-      "source": "Visit Plovdiv"
-    },
-    {
-      "id": "vp-16058",
-      "title": "Тестостерон",
-      "category": "theatre",
-      "ages": [
-        "all"
-      ],
-      "start": "2026-11-16T17:00:00.000Z",
-      "end": "2026-11-16T20:00:00.000Z",
-      "venue": "Дом на културата „Борис Христов“",
-      "organizer": "Виа Арс ЕООД",
-      "url": "https://www.visitplovdiv.com/bg/node/16058",
-      "image": "https://www.visitplovdiv.com/sites/default/files/814226763_3680426832109141_5621411921441419613_n.jpg",
-      "description": "\r\n\r\nСпектакълът „Тестостерон“ от Анджей Сарамонович, под режисурата на Богдан Петканин, гостува в Пловдив, за да превърне сцената в арена на мъжки страсти, хумор без филтър и болезнено откровени истини.\n\r\nИсторията започва с един от най-абсурдните житейски сценарии – сватба, която така и не се състои. Любимата избягва още преди олтара, а изоставеният младоженец и неговата компания се оказват въвлечени в свят на кървави битки, липсващи предни зъби, неочаквани приятелства и безпощаден сблъсък с мъжкото его.\n\r\nС много самоирония, неподправена енергия и черен хумор спектакълът поставя вечния въпрос: Какво всъщност правят мъжете, когато жените ги няма?\n\r\nВ звездния актьорски състав са Кирил Ефремов, Петър Данов, Петър Петков – Шайбата, Борислав Вълов (Ей Бо), Богдан Казанджиев, Алекс Иванов и Силвестър.",
-      "source": "Visit Plovdiv"
-    },
-    {
-      "id": "op-19128",
-      "title": "Събития на АМТИИ \"Проф. Асен Диамандиев\"",
-      "category": "other",
-      "ages": [
-        "all"
-      ],
-      "start": "2026-11-16T22:00:00.000Z",
-      "end": "2026-11-21T21:59:00.000Z",
-      "allDay": true,
-      "venue": "ул. „Тодор Самодумов“ 2",
-      "url": "https://opoznaiplovdiv.bg/listing/sabitiya-na-amtii-prof-asen-diamandiev-plovdiv-vhod-svoboden-2/",
-      "image": "https://opoznaiplovdiv.bg/wp-content/uploads/listing-uploads/logo/2026/11/16.11-768x1086.jpg",
-      "source": "Опознай Пловдив"
-    },
-    {
-      "id": "vp-16086-4",
-      "title": "Опера Бутик: Вечер с Йосиф Славов",
-      "category": "opera",
-      "ages": [
-        "all"
-      ],
-      "start": "2026-11-17T17:00:00.000Z",
-      "end": "2026-11-17T20:00:00.000Z",
-      "venue": "Дом на културата „Борис Христов“",
-      "organizer": "Държавна опера Пловдив",
-      "url": "https://operaplovdiv.bg/bg/performance/details?id=554",
-      "image": "https://www.visitplovdiv.com/sites/default/files/615868393_1438573887631507_7134188443181417681_n.jpg",
-      "description": "Камерен концерт. Епископската базилика на Филипопол",
-      "source": "Visit Plovdiv"
-    },
-    {
-      "id": "vp-16082-15",
-      "title": "Ръкомахане в Спокан",
-      "category": "theatre",
-      "ages": [
-        "all"
-      ],
-      "start": "2026-11-17T17:00:00.000Z",
-      "end": "2026-11-17T20:00:00.000Z",
-      "venue": "Драматичен театър Пловдив – Камерна зала",
-      "organizer": "Драматичен театър – Пловдив",
-      "url": "https://dtp.bg/show/rakomahane-v-spokan",
-      "image": "https://www.visitplovdiv.com/sites/default/files/Screenshot%202026-10-15%20141407.png",
-      "description": "от Мартин Макдона",
-      "source": "Visit Plovdiv"
-    },
-    {
-      "id": "vp-16082-16",
-      "title": "Солунските съзаклятници",
-      "category": "theatre",
-      "ages": [
-        "all"
-      ],
-      "start": "2026-11-17T17:00:00.000Z",
-      "end": "2026-11-17T20:00:00.000Z",
-      "venue": "Драматичен театър Пловдив – Голяма зала",
-      "organizer": "Драматичен театър – Пловдив",
-      "url": "https://dtp.bg/show/solunskite",
-      "image": "https://www.visitplovdiv.com/sites/default/files/Screenshot%202026-10-15%20141407.png",
-      "description": "от Георги Данаилов",
-      "source": "Visit Plovdiv"
-    },
-    {
-      "id": "vp-16082-17",
-      "title": "Записки по българските въстания",
-      "category": "theatre",
-      "ages": [
-        "all"
-      ],
-      "start": "2026-11-18T17:00:00.000Z",
-      "end": "2026-11-18T20:00:00.000Z",
-      "venue": "Драматичен театър Пловдив – Голяма зала",
-      "organizer": "Драматичен театър – Пловдив",
-      "url": "https://dtp.bg/show/zapiski-po-bulgarskite-vuztaniq",
-      "image": "https://www.visitplovdiv.com/sites/default/files/Screenshot%202026-10-15%20141407.png",
-      "description": "по мотиви от творбата на Захари Стоянов",
-      "source": "Visit Plovdiv"
-    },
-    {
-      "id": "vp-16082-18",
-      "title": "Дреднаути. Пиеса за женска публика.",
-      "category": "theatre",
-      "ages": [
-        "all"
-      ],
-      "start": "2026-11-18T17:00:00.000Z",
-      "end": "2026-11-18T20:00:00.000Z",
-      "venue": "Драматичен театър Пловдив – Камерна зала",
-      "organizer": "Драматичен театър – Пловдив",
-      "url": "https://dtp.bg/show/drednauti",
-      "image": "https://www.visitplovdiv.com/sites/default/files/Screenshot%202026-10-15%20141407.png",
-      "description": "от Евгений Гришковец",
+      "venue": "Lucky Дом на киното",
+      "organizer": "Lucky Дом на киното",
+      "url": "https://www.visitplovdiv.com/bg/node/16110",
+      "image": "https://www.visitplovdiv.com/sites/default/files/Screenshot%202026-11-12%20114058.png",
+      "description": "\r\n\r\nФестивалът Киномания се завръща в Пловдив с 18 дни кино и 23 заглавия от водещи режисьори и актьори на съвременното световно кино.\n\r\nОфициалното откриване е на 12 ноември с „Див кон девет“ – най-новия филм на Мартин Макдона, с участието на Джон Малкович, Сам Рокуел и Стив Бушеми.\n\r\nПрограмата включва филми на утвърдени режисьори като Хирокадзу Корееда, Кристиан Мунджиу, Андрей Звягинцев, Джеймс Грей и Родриго Сорогойен. Сред акцентите са отличени продукции от престижни международни кинофестивали, сред които носителите на „Златна палма“, „Златен лъв“ и „Златна мечка“.\n\n\r\n\r\nПовече информация за събитието и програма: facebook\n\n\r\n\r\nФестивалът се провежда с подкрепата на Община Пловдив и е част от Културния календар на града за 2026 г.",
       "source": "Visit Plovdiv"
     },
     {
@@ -263,18 +87,22 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "op-18895",
-      "title": "По ръба на небето",
-      "category": "puppet",
+      "id": "vp-16109",
+      "title": "Коледа в Пловдив",
+      "category": "festival",
       "ages": [
         "all"
       ],
-      "start": "2026-11-19T17:00:00.000Z",
-      "end": "2026-11-19T20:00:00.000Z",
-      "venue": "Куклен Театър Пловдив",
-      "url": "https://opoznaiplovdiv.bg/listing/po-raba-na-nebeto-v-kuklen-teatar-plovdiv-19-11-2026/",
-      "image": "https://opoznaiplovdiv.bg/wp-content/uploads/2026/10/po-raba-na-nebeto-v-kuklen-teatar-plovdiv-19.11.2026-768x511.jpg",
-      "source": "Опознай Пловдив"
+      "start": "2026-11-19T22:00:00.000Z",
+      "end": "2027-01-03T21:59:00.000Z",
+      "allDay": true,
+      "venue": "За контакт във връзка с културната програма: 0896674908 - Сребрена Григорова",
+      "price": "Безплатно",
+      "organizer": "Община Пловдив",
+      "url": "https://www.visitplovdiv.com/bg/node/16109",
+      "image": "https://www.visitplovdiv.com/sites/default/files/897547145_2007404134206193_2156149651951537907_n_0.jpg",
+      "description": "\r\nЗа контакт във връзка поставяне на преместваеми обекти:\n\r\nОбявление: https://www.plovdiv.bg/wp-content/uploads/2026/10/ObyavlenieKoleda2.pdf\n\r\nСхема: https://www.plovdiv.bg/wp-content/uploads/2026/10/ShemaKoleda.pdf",
+      "source": "Visit Plovdiv"
     },
     {
       "id": "vp-16086-5",
@@ -341,18 +169,18 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "op-18897",
-      "title": "Мечо пух",
-      "category": "theatre",
+      "id": "op-19221",
+      "title": "Събития на АМТИИ \"Проф. Асен Диамандиев\"",
+      "category": "other",
       "ages": [
         "all"
       ],
-      "start": "2026-11-22T08:30:00.000Z",
-      "end": "2026-11-22T11:30:00.000Z",
-      "venue": "Куклен Театър Пловдив",
-      "address": "ул. „Христо Г. Данов“ 14",
-      "url": "https://opoznaiplovdiv.bg/listing/mecho-puh-v-kulen-teatar-plovdiv-22-11-2026/",
-      "image": "https://opoznaiplovdiv.bg/wp-content/uploads/2026/03/mecho-puh-v-darzhaven-kuklen-teatar-05.04.2026-768x511.jpg",
+      "start": "2026-11-22T22:00:00.000Z",
+      "end": "2026-11-29T21:59:00.000Z",
+      "allDay": true,
+      "venue": "ул. „Тодор Самодумов“ 2",
+      "url": "https://opoznaiplovdiv.bg/listing/sabitiya-na-amtii-prof-asen-diamandiev-23-11-25-11-2026/",
+      "image": "https://opoznaiplovdiv.bg/wp-content/uploads/listing-uploads/logo/2026/11/23.11.2026-768x1086.jpg",
       "source": "Опознай Пловдив"
     },
     {
@@ -386,36 +214,6 @@
       "image": "https://www.visitplovdiv.com/sites/default/files/Screenshot%202026-10-15%20141407.png",
       "description": "авторски спектакъл на Камен Донев",
       "source": "Visit Plovdiv"
-    },
-    {
-      "id": "op-18927",
-      "title": "Новата лекция № 3 за силата на словото",
-      "category": "theatre",
-      "ages": [
-        "all"
-      ],
-      "start": "2026-11-23T17:00:00.000Z",
-      "end": "2026-11-23T20:00:00.000Z",
-      "venue": "Драматичен Театър Пловдив",
-      "address": "улица „Княз Александър I-ви“ 38",
-      "url": "https://opoznaiplovdiv.bg/listing/novata-lekcziya-%e2%84%96-3-za-silata-na-slovoto-v-dramatichen-teatar-plovdiv-23-11-2026/",
-      "image": "https://opoznaiplovdiv.bg/wp-content/uploads/2026/03/novata-lekcziya-№-3-za-silata-na-slovoto-v-dramatichen-teatar-22.04.2024-768x1034.webp",
-      "source": "Опознай Пловдив"
-    },
-    {
-      "id": "op-18855",
-      "title": "Бъди добъл",
-      "category": "puppet",
-      "ages": [
-        "all"
-      ],
-      "start": "2026-11-24T08:30:00.000Z",
-      "end": "2026-11-24T11:30:00.000Z",
-      "venue": "Куклен Театър Пловдив",
-      "address": "ул. „Христо Г. Данов“ 14",
-      "url": "https://opoznaiplovdiv.bg/listing/badi-dobal-v-kuklen-teatar-plovdiv-03-11-24-11-2026/",
-      "image": "https://opoznaiplovdiv.bg/wp-content/uploads/2026/10/badi-dobal-v-kuklen-teatar-plovdiv-13.10.2026-768x511.jpg",
-      "source": "Опознай Пловдив"
     },
     {
       "id": "vp-16082-25",
@@ -527,39 +325,27 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "op-18936",
-      "title": "Влюбеният дирижабъл. Съдбата на поета.",
-      "category": "theatre",
-      "ages": [
-        "all"
-      ],
-      "start": "2026-11-26T17:00:00.000Z",
-      "end": "2026-11-26T20:00:00.000Z",
-      "venue": "Драматичен Театър Пловдив",
-      "address": "улица „Княз Александър I-ви“ 38",
-      "url": "https://opoznaiplovdiv.bg/listing/vlyubeniyat-dirizhabal-sadbata-na-poeta-v-dramatichen-teatar-plovdiv-26-11-2026/",
-      "image": "https://opoznaiplovdiv.bg/wp-content/uploads/2026/09/vlyubeniyat-dirizhabal.-sadbata-na-poeta.-v-dramatichen-teatar-plovdiv-27.10.2026-768x512.webp",
-      "source": "Опознай Пловдив"
-    },
-    {
-      "id": "op-18898",
+      "id": "pp-127-202611261900",
       "title": "Дама Пика",
       "category": "puppet",
       "ages": [
-        "all"
+        "under18",
+        "18-40",
+        "40plus"
       ],
       "start": "2026-11-26T17:00:00.000Z",
       "end": "2026-11-26T20:00:00.000Z",
-      "venue": "Куклен Театър Пловдив",
+      "venue": "Държавен куклен театър Пловдив",
       "address": "ул. „Христо Г. Данов“ 14",
-      "url": "https://opoznaiplovdiv.bg/listing/dama-pika-v-kuklen-teatar-plovdiv-26-11-2026/",
-      "image": "https://opoznaiplovdiv.bg/wp-content/uploads/2026/03/dama-pika-v-darzhaven-kuklen-teatar-02.04.2026-768x511.jpg",
-      "source": "Опознай Пловдив"
+      "url": "https://pptheatre.com/bg/plays/p/127-%D0%B4%D0%B0%D0%BC%D0%B0-%D0%BF%D0%B8%D0%BA%D0%B0",
+      "image": "https://pptheatre.com/data/kimo_images/kimo_grid2_image_unit_127/small_Untitled%20design.jpg?f=46289",
+      "description": "Подходящо за 14+ г.\nИграта на карти или играта на съдбата. Играта, в която жадуваме да спечелим и да се домогнем до щастие, любов, реализация, власт..",
+      "source": "Куклен театър Пловдив"
     },
     {
       "id": "vp-16072",
       "title": "Пловдив опен 2026 - Дъга от таланти",
-      "category": "dance",
+      "category": "sport-other",
       "ages": [
         "all"
       ],
@@ -571,6 +357,56 @@
       "image": "https://www.visitplovdiv.com/sites/default/files/Screenshot%202026-10-09%20101055.png",
       "description": "\r\n\r\nТри дни, изпълнени с емоции, танци и вдъхновение!\n\r\nPlovdiv Open’2026 е международно танцово състезание, част от Диамантената лига на танцовите състезания в България. Събитието ще събере танцьори от различни възрастови групи и стилове, които ще се състезават за престижни отличия, специалната награда „Диамант“ и парични награди. Програмата включва международно жури и празнична гала вечер.",
       "source": "Visit Plovdiv"
+    },
+    {
+      "id": "spk-8115",
+      "title": "ШОРТТРЕК – Европейска купа юноши „София оупън”",
+      "category": "sport-other",
+      "ages": [
+        "all"
+      ],
+      "start": "2026-11-27T07:00:00.000Z",
+      "end": "2026-11-28T04:00:00.000Z",
+      "venue": "Зимен дворец на спорта, Пловдив",
+      "address": "кв.Студентски град, ул. &quot;Акад. Борис Стефанов&quot; София България, София",
+      "url": "https://sportenkalendar.bg/sybitie/sorttrek-evropejska-kupa-unosi-sofia-oup-n-8115",
+      "image": "https://sportenkalendar.bg//uploads/events/katrin-manoilova-676e780ba7466612150058-69c5559da2dc0245387363.jpg",
+      "description": "Шорттрек – Европейска купа юноши „София оупън”",
+      "source": "Спортен календар"
+    },
+    {
+      "id": "spk-8519",
+      "title": "Международен турнир по спортна гимнастика „Любчо Солачки“",
+      "category": "sport-other",
+      "ages": [
+        "all"
+      ],
+      "start": "2026-11-27T08:00:00.000Z",
+      "end": "2026-11-29T03:00:00.000Z",
+      "venue": "Спортна зала \"Скаптопара\", Пловдив",
+      "address": "ж.к. &quot;Запад&quot;, 38А Благоевград България, Благоевград",
+      "organizer": "Община Благоевград",
+      "url": "https://sportenkalendar.bg/sybitie/21-ti-mezdunaroden-turnir-po-sportna-gimnastika-lubco-solacki-8519",
+      "image": "https://sportenkalendar.bg//uploads/events/gim-6b0016965f853974411159.jpg",
+      "description": "Международен турнир по спортна гимнастика „Любчо Солачки“.Турнирът е посветен на паметта на Любчо Солачки, основател на едноименния гимнастически клуб. През годините събитието се утвърждава като международна среща на млади гимнастически таланти, предоставяйки им възможност за състезателна изява и обмен на опит",
+      "source": "Спортен календар"
+    },
+    {
+      "id": "spk-8523",
+      "title": "Пловдив опен 2026 - Дъга от таланти",
+      "category": "sport-other",
+      "ages": [
+        "all"
+      ],
+      "start": "2026-11-27T09:00:00.000Z",
+      "end": "2026-11-29T10:00:00.000Z",
+      "venue": "Спортна зала \"Колодрум\", Пловдив",
+      "address": "ул.&quot;Найчо Цанов&quot; 678 Пловдив България, Пловдив",
+      "organizer": "Българска федерация акроботика",
+      "url": "https://sportenkalendar.bg/sybitie/plovdiv-open-2026-d-ga-ot-talanti-8523",
+      "image": "https://sportenkalendar.bg//uploads/events/6a34ec82485e9-20260619-100303-1-6adf61d5350b1220203792.jpg",
+      "description": "Три дни изпълнени с емоции, танци и вдъхновение!\nPlovdiv Open&rsquo;2026 е едно от най-очакваните международни състезания за годината – част от престижната Диамантена лига на Танцовите Състезания в България.\n\nСъбитието ще събере на една сцена талантливи танцьори от цяла България.\n\nВ състезанието могат да се включат всички възрастови групи и стилове – от най-малките звезди до утвърдени професионалисти.\n\nМеждународно жури\nМножество награди\nСпециална награда \"Диамант\"\nПарични награди\nФото и видео заснемане\nСертификати и специални отличия\n\nВълшебена Гала Вечер\n\nНе пропускай финалния акорд на танцовата 2026 година!\n\nПодробности и регистрация: www.dance-eu.com",
+      "source": "Спортен календар"
     },
     {
       "id": "vp-16082-29",
@@ -605,6 +441,56 @@
       "source": "Visit Plovdiv"
     },
     {
+      "id": "bilet-9176",
+      "title": "Чай за двама",
+      "category": "concert",
+      "ages": [
+        "all"
+      ],
+      "start": "2026-11-27T17:00:00.000Z",
+      "end": "2026-11-27T20:00:00.000Z",
+      "venue": "Радио БНР Пловдив",
+      "address": "Център, ул. \"Найден Геров\" 8, Пловдив",
+      "organizer": "Ателие 47",
+      "url": "https://bilet.bg/bg/events/chay-za-dvama-9176",
+      "image": "https://panel.bilet.bg/media/events/87556045f682d1b59690faafbdc2d2ac.png",
+      "description": "Чай за двама",
+      "source": "bilet.bg"
+    },
+    {
+      "id": "spk-7406",
+      "title": "Национален университетски шампионат по аеробика",
+      "category": "sport-other",
+      "ages": [
+        "all"
+      ],
+      "start": "2026-11-28T08:00:00.000Z",
+      "end": "2026-11-28T11:00:00.000Z",
+      "venue": "НСА \"Васил Левски\", Пловдив",
+      "address": "Студентски град, ул. &quot;Акад. Стефан Младенов&quot; 21 София България, София",
+      "url": "https://sportenkalendar.bg/sybitie/nacionalen-universitetski-sampionat-po-aerobika-7406",
+      "image": "https://sportenkalendar.bg//uploads/events/aerobika-aus-6b000637e556d234271052.png",
+      "description": "Националният университетски шампионат по аеробика 2026 събира студентите в София!\n\nНа 28 ноември 2026 г. (събота) от 11:00 ч. в зала „Хандбал“ на НСА „Васил Левски“ ще се проведе Националният университетски шампионат по аеробика.\n\nСъстезанието има над 20-годишна история! Започнало като Коледен студентски аеробика маратон, то преминава през формата на Държавно студентско първенство, за да се утвърди като Национален университетски шампионат.\n\nПрограма:\n\n10:00 – 10:30 ч. – Проверка на документите и раздаване на състезателните номера\n\n10:30 ч. – Техническа конференция\n\n10:45 ч. – Съдийска среща\n\n11:00 ч. – Начало на състезанието\n\nОчакват ни много енергия, ритъм и спортни емоции!",
+      "source": "Спортен календар"
+    },
+    {
+      "id": "pp-52-202611281030",
+      "title": "Безопасна приказка",
+      "category": "puppet",
+      "ages": [
+        "all",
+        "under18"
+      ],
+      "start": "2026-11-28T08:30:00.000Z",
+      "end": "2026-11-28T11:30:00.000Z",
+      "venue": "Държавен куклен театър Пловдив",
+      "address": "ул. „Христо Г. Данов“ 14",
+      "url": "https://pptheatre.com/bg/plays/p/52-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%B0-%D0%BF%D1%80%D0%B8%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0",
+      "image": "https://pptheatre.com/data/kimo_images/kimo_grid2_image_unit_52/small_list.jpg?f=70367",
+      "description": "Подходящо за 4+ г.\n\"Безопасна приказка\" е образователен спектакъл, който ще научи децата на основните правила за безопасност...",
+      "source": "Куклен театър Пловдив"
+    },
+    {
       "id": "vp-16086-7",
       "title": "Лепило за брада",
       "category": "opera",
@@ -621,35 +507,106 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16094",
-      "title": "Saké @ International Fair",
-      "category": "festival",
+      "id": "pp-52-202611281145",
+      "title": "Безопасна приказка",
+      "category": "puppet",
+      "ages": [
+        "all",
+        "under18"
+      ],
+      "start": "2026-11-28T09:45:00.000Z",
+      "end": "2026-11-28T12:45:00.000Z",
+      "venue": "Държавен куклен театър Пловдив",
+      "address": "ул. „Христо Г. Данов“ 14",
+      "url": "https://pptheatre.com/bg/plays/p/52-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%B0-%D0%BF%D1%80%D0%B8%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0",
+      "image": "https://pptheatre.com/data/kimo_images/kimo_grid2_image_unit_52/small_list.jpg?f=70367",
+      "description": "Подходящо за 4+ г.\n\"Безопасна приказка\" е образователен спектакъл, който ще научи децата на основните правила за безопасност...",
+      "source": "Куклен театър Пловдив"
+    },
+    {
+      "id": "opera-514-2026112817",
+      "title": "Лепило за брада",
+      "category": "kids",
+      "ages": [
+        "all",
+        "under18"
+      ],
+      "start": "2026-11-28T15:00:00.000Z",
+      "end": "2026-11-28T18:00:00.000Z",
+      "venue": "Дом на културата \"Борис Христов\"",
+      "organizer": "Държавна опера Пловдив",
+      "url": "https://operaplovdiv.bg/bg/performance/details?id=514",
+      "image": "https://operaplovdiv.bg/timthumb.php?src=/media/images/eeb9c945ca334e36ff09119e3513b78b4c4225e10a3a8a8f848ec6f7373f0645.jpeg&w=1500",
+      "description": "Мюзикъл · За деца",
+      "source": "Опера Пловдив"
+    },
+    {
+      "id": "bilet-8947",
+      "title": "SAKÉ @ INTERNATIONAL FAIR, Plovdiv",
+      "category": "concert",
       "ages": [
         "all"
       ],
       "start": "2026-11-28T20:00:00.000Z",
       "end": "2026-11-28T23:00:00.000Z",
       "venue": "Международен панаир Пловдив",
-      "organizer": "Саке Евентс ООД",
-      "url": "https://www.visitplovdiv.com/bg/node/16094",
-      "image": "https://www.visitplovdiv.com/sites/default/files/839915080_1118982081114136_83616868086020056_n.png",
-      "description": "\r\n\r\nSaké се завръща в Пловдив с още по-мащабно събитие, по-голяма локация и впечатляващ артистичен състав. Палата 2 на Международен панаир Пловдив ще се превърне в център на електронната музика с фестивална зона от над 3000 кв. м и седем артисти.\n\r\nХедлайнер на събитието ще бъде INNELLEA – един от най-актуалните артисти на електронната сцена през последните години. Със своя динамичен и енергичен звук той ще поведе публиката към окото на бурята и ще постави началото на една незабравима музикална нощ.\n\r\nТри десетилетия след последното подобно събитие Международен панаир Пловдив отново ще пулсира в ритъма на електронната музика – този път с продукция от съвсем различен мащаб.",
-      "source": "Visit Plovdiv"
+      "address": "Международен Панаир Северен, бул. бул. \"Цар Борис III Обединител\" 37, Пловдив",
+      "organizer": "sake",
+      "url": "https://bilet.bg/bg/events/sake-at-international-fair-plovdiv-8947",
+      "image": "https://panel.bilet.bg/media/events/dc109ca0438eb8efa618d65894eb5955.png",
+      "description": "SAKÉ @ INTERNATIONAL FAIR, Plovdiv",
+      "source": "bilet.bg"
     },
     {
-      "id": "op-18854",
+      "id": "pp-37-202611291030",
       "title": "Косе Босе",
       "category": "puppet",
       "ages": [
-        "all"
+        "all",
+        "under18"
       ],
       "start": "2026-11-29T08:30:00.000Z",
       "end": "2026-11-29T11:30:00.000Z",
-      "venue": "Куклен Театър",
+      "venue": "Държавен куклен театър Пловдив",
       "address": "ул. „Христо Г. Данов“ 14",
-      "url": "https://opoznaiplovdiv.bg/listing/kose-bose-v-kuklen-teatar-01-11-29-11-2026/",
-      "image": "https://opoznaiplovdiv.bg/wp-content/uploads/2026/02/kose-bose-v-darzhaven-kuklen-teatar-28.02.2026-768x512.jpg",
-      "source": "Опознай Пловдив"
+      "url": "https://pptheatre.com/bg/plays/p/37-%D0%BA%D0%BE%D1%81%D0%B5-%D0%B1%D0%BE%D1%81%D0%B5",
+      "image": "https://pptheatre.com/data/kimo_images/kimo_grid2_image_unit_37/small_list.jpg?f=83355",
+      "description": "Подходящо за 3+ г.\nЛюбимите актьори ще разкажат класическата приказка за Косето, Лиса и Шаро.",
+      "source": "Куклен театър Пловдив"
+    },
+    {
+      "id": "pp-37-202611291145",
+      "title": "Косе Босе",
+      "category": "puppet",
+      "ages": [
+        "all",
+        "under18"
+      ],
+      "start": "2026-11-29T09:45:00.000Z",
+      "end": "2026-11-29T12:45:00.000Z",
+      "venue": "Държавен куклен театър Пловдив",
+      "address": "ул. „Христо Г. Данов“ 14",
+      "url": "https://pptheatre.com/bg/plays/p/37-%D0%BA%D0%BE%D1%81%D0%B5-%D0%B1%D0%BE%D1%81%D0%B5",
+      "image": "https://pptheatre.com/data/kimo_images/kimo_grid2_image_unit_37/small_list.jpg?f=83355",
+      "description": "Подходящо за 3+ г.\nЛюбимите актьори ще разкажат класическата приказка за Косето, Лиса и Шаро.",
+      "source": "Куклен театър Пловдив"
+    },
+    {
+      "id": "sk-43477313",
+      "title": "aetherian",
+      "category": "concert",
+      "ages": [
+        "all"
+      ],
+      "start": "2026-11-29T18:00:00.000Z",
+      "end": "2026-11-29T21:00:00.000Z",
+      "venue": "Under City",
+      "address": "Rayko Daskalov 53, Plovdiv",
+      "organizer": "aetherian",
+      "url": "https://www.songkick.com/concerts/43477313-aetherian-at-under-city?utm_medium=organic&utm_source=microformat",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/9435209/huge_avatar",
+      "description": "aetherian at Under City at 2026-11-29T20:00:00+0200",
+      "source": "Songkick"
     },
     {
       "id": "vp-16082-31",
@@ -684,7 +641,24 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-1",
+      "id": "pp-38-20261211030",
+      "title": "Кой съм аз?",
+      "category": "puppet",
+      "ages": [
+        "all",
+        "under18"
+      ],
+      "start": "2026-12-01T08:30:00.000Z",
+      "end": "2026-12-01T11:30:00.000Z",
+      "venue": "Държавен куклен театър Пловдив",
+      "address": "ул. „Христо Г. Данов“ 14",
+      "url": "https://pptheatre.com/bg/plays/p/38-%D0%BA%D0%BE%D0%B9-%D1%81%D1%8A%D0%BC-%D0%B0%D0%B7",
+      "image": "https://pptheatre.com/data/kimo_images/kimo_grid2_image_unit_38/small_grid-play.jpg?f=93854",
+      "description": "Подходящо за 1+ г.\nСпектакълът е разходка в света на животните, които децата виждат в книжките. Но нашите книжки са различни – в тях всичко оживява.",
+      "source": "Куклен театър Пловдив"
+    },
+    {
+      "id": "vp-16113-1",
       "title": "Отблизо",
       "category": "theatre",
       "ages": [
@@ -700,7 +674,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-2",
+      "id": "vp-16113-2",
       "title": "Лекция № 2 за всеобщата просвета",
       "category": "theatre",
       "ages": [
@@ -716,7 +690,40 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-3",
+      "id": "pp-697-20261211900",
+      "title": "Двама в делириум",
+      "category": "puppet",
+      "ages": [
+        "all",
+        "under18"
+      ],
+      "start": "2026-12-01T17:00:00.000Z",
+      "end": "2026-12-01T20:00:00.000Z",
+      "venue": "Държавен куклен театър Пловдив",
+      "address": "ул. „Христо Г. Данов“ 14",
+      "url": "https://pptheatre.com/bg/plays/p/697-dvama-v-delirium",
+      "image": "https://pptheatre.com/data/kimo_images/kimo_grid2_image_unit_697/small_Untitled%20Design.jpg?f=74983",
+      "description": "Абсурдна комедия за двама души, които не могат да живеят нито заедно, нито един без друг, а любовта им е едновременно убежище и капан.",
+      "source": "Куклен театър Пловдив"
+    },
+    {
+      "id": "kolodrum-kupa-na-cev-po-volejbol-za-jeni-2026-2027-marica-plovdiv-sreshtu-ribola-kastela-harvatiq",
+      "title": "Купа на CEV по волейбол за жени 2026/2027: Марица (Пловдив) срещу Рибола (Кащела, Хърватия)",
+      "category": "volleyball",
+      "ages": [
+        "all"
+      ],
+      "start": "2026-12-01T22:00:00.000Z",
+      "end": "2026-12-02T21:59:00.000Z",
+      "allDay": true,
+      "venue": "Зала „Колодрум“",
+      "address": "ул. „Асеновградско шосе“ 8, Пловдив",
+      "url": "https://kolodrumplovdiv.com/bg/sybitia/kupa-na-cev-po-volejbol-za-jeni-2026-2027-marica-plovdiv-sreshtu-ribola-kastela-harvatiq",
+      "image": "https://kolodrumplovdiv.com/uploads/6b04237052838_big_1760790053422Ql.webp",
+      "source": "Колодрум Пловдив"
+    },
+    {
+      "id": "vp-16113-3",
       "title": "Елизабет или кралицата девственица",
       "category": "theatre",
       "ages": [
@@ -732,7 +739,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-4",
+      "id": "vp-16113-4",
       "title": "Берлин, Берлин",
       "category": "theatre",
       "ages": [
@@ -748,7 +755,23 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-5",
+      "id": "kolodrum-botev-akademik-sreshtu-lokomotiv-plovdivsko-basketbolno-derbi",
+      "title": "Пловдивско баскетболно дерби: Ботев Академик срещу Локомотив",
+      "category": "basketball",
+      "ages": [
+        "all"
+      ],
+      "start": "2026-12-02T22:00:00.000Z",
+      "end": "2026-12-03T21:59:00.000Z",
+      "allDay": true,
+      "venue": "Зала „Колодрум“",
+      "address": "ул. „Асеновградско шосе“ 8, Пловдив",
+      "url": "https://kolodrumplovdiv.com/bg/sybitia/botev-akademik-sreshtu-lokomotiv-plovdivsko-basketbolno-derbi",
+      "image": "https://kolodrumplovdiv.com/uploads/6b003bf258ddb_PLVDERBY.jpg",
+      "source": "Колодрум Пловдив"
+    },
+    {
+      "id": "vp-16113-5",
       "title": "Догодина по същото време",
       "category": "theatre",
       "ages": [
@@ -780,6 +803,57 @@
       "source": "Visit Plovdiv"
     },
     {
+      "id": "pp-159-20261231900",
+      "title": "Хамлет",
+      "category": "puppet",
+      "ages": [
+        "under18",
+        "18-40",
+        "40plus"
+      ],
+      "start": "2026-12-03T17:00:00.000Z",
+      "end": "2026-12-03T20:00:00.000Z",
+      "venue": "Държавен куклен театър Пловдив",
+      "address": "ул. „Христо Г. Данов“ 14",
+      "url": "https://pptheatre.com/bg/plays/p/159-%D1%85%D0%B0%D0%BC%D0%BB%D0%B5%D1%82",
+      "image": "https://pptheatre.com/data/kimo_images/kimo_grid2_image_unit_159/small_list.jpg?f=64457",
+      "description": "Подходящо за 16+ г.\nТова е различен и атрактивен спектакъл, който с шега и лекота представя сериозния шекспиров сюжет.",
+      "source": "Куклен театър Пловдив"
+    },
+    {
+      "id": "bilet-8782",
+      "title": "Dara Ekimova Live @Plovdiv Event Center",
+      "category": "concert",
+      "ages": [
+        "all"
+      ],
+      "start": "2026-12-03T17:00:00.000Z",
+      "end": "2026-12-03T20:00:00.000Z",
+      "venue": "Plovdiv Event Center",
+      "address": "Източни казарми, бул. \"Санкт Петербург\" 131, 4017 Пловдив, Пловдив",
+      "organizer": "Virginiarecords",
+      "url": "https://bilet.bg/bg/events/dara-ekimova-live-at-plovdiv-event-center-8782",
+      "image": "https://panel.bilet.bg/media/events/f70da6a41234ae873511cb7854f4810f.png",
+      "description": "Dara Ekimova Live @Plovdiv Event Center",
+      "source": "bilet.bg"
+    },
+    {
+      "id": "vp-16113-6",
+      "title": "Ръкомахане в Спокáн",
+      "category": "theatre",
+      "ages": [
+        "all"
+      ],
+      "start": "2026-12-04T17:00:00.000Z",
+      "end": "2026-12-04T20:00:00.000Z",
+      "venue": "Драматичен театър Пловдив – Камерна зала",
+      "organizer": "Драматичен театър – Пловдив",
+      "url": "https://dtp.bg/show/rakomahane-v-spokan",
+      "image": "https://www.visitplovdiv.com/sites/default/files/Screenshot%202026-11-11%20124238.png",
+      "description": "от Мартин Макдона",
+      "source": "Visit Plovdiv"
+    },
+    {
       "id": "vp-16112-1",
       "title": "Лешникотрошачката",
       "category": "opera",
@@ -796,20 +870,37 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-6",
-      "title": "Ръкомахане в Спокáн",
-      "category": "theatre",
+      "id": "kolodrum-mikele-morone-bulgariya-plovdiv-kontsert-turne",
+      "title": "Микеле Мороне избра Пловдив за старт на европейското си турне",
+      "category": "concert",
       "ages": [
         "all"
       ],
-      "start": "2026-12-04T17:00:00.000Z",
-      "end": "2026-12-04T20:00:00.000Z",
-      "venue": "Драматичен театър Пловдив – Камерна зала",
-      "organizer": "Драматичен театър – Пловдив",
-      "url": "https://dtp.bg/show/rakomahane-v-spokan",
-      "image": "https://www.visitplovdiv.com/sites/default/files/Screenshot%202026-11-11%20124238.png",
-      "description": "от Мартин Макдона",
-      "source": "Visit Plovdiv"
+      "start": "2026-12-04T22:00:00.000Z",
+      "end": "2026-12-05T21:59:00.000Z",
+      "allDay": true,
+      "venue": "Зала „Колодрум“",
+      "address": "ул. „Асеновградско шосе“ 8, Пловдив",
+      "url": "https://kolodrumplovdiv.com/bg/sybitia/mikele-morone-bulgariya-plovdiv-kontsert-turne",
+      "image": "https://kolodrumplovdiv.com/uploads/6a476f477dbba_sybitiq.jpg",
+      "source": "Колодрум Пловдив"
+    },
+    {
+      "id": "pp-17-20261251030",
+      "title": "Супер Снежко и Коледния дух",
+      "category": "puppet",
+      "ages": [
+        "all",
+        "under18"
+      ],
+      "start": "2026-12-05T08:30:00.000Z",
+      "end": "2026-12-05T11:30:00.000Z",
+      "venue": "Държавен куклен театър Пловдив",
+      "address": "ул. „Христо Г. Данов“ 14",
+      "url": "https://pptheatre.com/bg/plays/p/17-%D1%81%D1%83%D0%BF%D0%B5%D1%80-%D1%81%D0%BD%D0%B5%D0%B6%D0%BA%D0%BE-%D0%B8-%D0%BA%D0%BE%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D1%8F-%D0%B4%D1%83%D1%85",
+      "image": "https://pptheatre.com/data/kimo_images/kimo_grid2_image_unit_17/small_list.jpg?f=59248",
+      "description": "Подходящо за 3+ г.\nСпектакълът „Супер Снежко и Коледния дух” е за силата на сърцето и доброто, което се крие в него!",
+      "source": "Куклен театър Пловдив"
     },
     {
       "id": "vp-16112-2",
@@ -828,7 +919,86 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-7",
+      "id": "vp-16112-3",
+      "title": "Лешникотрошачката",
+      "category": "opera",
+      "ages": [
+        "all"
+      ],
+      "start": "2026-12-05T16:00:00.000Z",
+      "end": "2026-12-05T19:00:00.000Z",
+      "venue": "Дом на културата „Борис Христов“",
+      "organizer": "Държавна опера Пловдив",
+      "url": "https://operaplovdiv.bg/bg/performance/details?id=398",
+      "image": "https://www.visitplovdiv.com/sites/default/files/615868393_1438573887631507_7134188443181417681_n.jpg",
+      "description": "Балет",
+      "source": "Visit Plovdiv"
+    },
+    {
+      "id": "bilet-9212",
+      "title": "Dimholt & Дъжд",
+      "category": "concert",
+      "ages": [
+        "all"
+      ],
+      "start": "2026-12-05T17:00:00.000Z",
+      "end": "2026-12-05T20:00:00.000Z",
+      "venue": "Bee Bop Café",
+      "address": "ул. „Гладстон“ №1, Пловдив, България., Пловдив",
+      "organizer": "ЕКИПАЖ ООД",
+      "url": "https://bilet.bg/bg/events/dimholt-duzhd-9212",
+      "image": "https://panel.bilet.bg/media/events/c50e62bb1ded35816ff0a0e6e8100aaa.png",
+      "description": "Dimholt & Дъжд",
+      "source": "bilet.bg"
+    },
+    {
+      "id": "spk-8554",
+      "title": "Национална купа по чирлидинг, пърформънс чир и мажоретни дисциплини",
+      "category": "sport-other",
+      "ages": [
+        "all"
+      ],
+      "start": "2026-12-06T08:00:00.000Z",
+      "end": "2026-12-07T10:00:00.000Z",
+      "venue": "Спортна зала \"Колодрум\", Пловдив",
+      "address": "ул.&quot;Найчо Цанов&quot; 678 Пловдив България, Пловдив",
+      "organizer": "СК Севън Стормс Пловдив",
+      "url": "https://sportenkalendar.bg/sybitie/nacionalna-kupa-po-cirliding-p-rform-ns-cir-i-mazoretni-disciplini-8554",
+      "source": "Спортен календар"
+    },
+    {
+      "id": "spk-8555",
+      "title": "благотворително бягане “Nikola’s Run” в подкрепа дейността на фондация “Ела и ти”",
+      "category": "running",
+      "ages": [
+        "all"
+      ],
+      "start": "2026-12-06T09:00:00.000Z",
+      "end": "2026-12-06T12:00:00.000Z",
+      "venue": "Гребна база, Пловдив",
+      "address": "Гребна база Пловдив България, Пловдив",
+      "url": "https://sportenkalendar.bg/sybitie/blagotvoritelno-bagane-nikola-s-run-v-podkrepa-dejnostta-na-fondacia-ela-i-ti-8555",
+      "description": "Фондация „Ела и ти\", от 2017 г. Подпомага хора със специални потребности и увлича множество доброволц.\nДосега вече 220 човека с увреждания и над 450 доброволци имаха своите разЛични преживявания - участваха в\nпреминаването по въжен тролей над водопади, посетиха пещери, издигаха се с въжени системи, достигнаха на\nводно колело до остров. Участвахме четири поредни години в планински бягания с\nносилка – По стъпките на Алеко с приятел и с три отбора в „Тепе Джамборе 2024”. С шейни, теглени с турови\nски и достигаме до планински върхове в планините Витоша, Рила и Пирин в събитието ни”Панти, шейни,\nусмивки”. През 2019 година получихме награда от TIMEHEROES в специално създадената за нас категория\n„смел подход\". 2023 година –\nнаграда „Даниела Сеизова – в името на живота”, присъдена на Гергана\nДойчинова, 2023 г. – награда „Окрили доброто” от фондация „Лъчезар\nЦоцорков”, присъдена на Гергана Дойчин",
+      "source": "Спортен календар"
+    },
+    {
+      "id": "spk-8231",
+      "title": "Национална купа по чирлидинг, пърформънс чир и мажоретни дисциплини",
+      "category": "sport-other",
+      "ages": [
+        "all"
+      ],
+      "start": "2026-12-06T10:00:00.000Z",
+      "end": "2026-12-07T10:00:00.000Z",
+      "venue": "Спортна зала \"Колодрум\", Пловдив",
+      "address": "ул.&quot;Найчо Цанов&quot; 678 Пловдив България, Пловдив",
+      "url": "https://sportenkalendar.bg/sybitie/nacionalna-kupa-po-cirliding-p-rform-ns-cir-i-mazoretni-disciplini-8231",
+      "image": "https://sportenkalendar.bg//uploads/events/pexels-cottonbro-studio-7322785-6b0185f2f179b018717630.jpg",
+      "description": "Национална купа по чирлидинг, пърформънс чир и мажоретни дисциплини.",
+      "source": "Спортен календар"
+    },
+    {
+      "id": "vp-16113-7",
       "title": "Бариерата",
       "category": "theatre",
       "ages": [
@@ -844,7 +1014,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-8",
+      "id": "vp-16113-8",
       "title": "С най-голямо уважение",
       "category": "theatre",
       "ages": [
@@ -860,7 +1030,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-9",
+      "id": "vp-16113-9",
       "title": "Без кръв",
       "category": "theatre",
       "ages": [
@@ -876,7 +1046,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-10",
+      "id": "vp-16113-10",
       "title": "Нирвана",
       "category": "theatre",
       "ages": [
@@ -892,7 +1062,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-11",
+      "id": "vp-16113-11",
       "title": "Едип и пророците",
       "category": "theatre",
       "ages": [
@@ -908,7 +1078,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-12",
+      "id": "vp-16113-12",
       "title": "Венецианска загадка",
       "category": "theatre",
       "ages": [
@@ -938,7 +1108,7 @@
       "source": "Опознай Пловдив"
     },
     {
-      "id": "vp-16110-13",
+      "id": "vp-16113-13",
       "title": "Капан за самотен мъж",
       "category": "theatre",
       "ages": [
@@ -952,6 +1122,39 @@
       "image": "https://www.visitplovdiv.com/sites/default/files/Screenshot%202026-11-11%20124238.png",
       "description": "от Робер Тома",
       "source": "Visit Plovdiv"
+    },
+    {
+      "id": "opera-557-2026121019",
+      "title": "Първите десет",
+      "category": "kids",
+      "ages": [
+        "all",
+        "under18"
+      ],
+      "start": "2026-12-10T17:00:00.000Z",
+      "end": "2026-12-10T20:00:00.000Z",
+      "venue": "Дом на културата \"Борис Христов\"",
+      "organizer": "Държавна опера Пловдив",
+      "url": "https://operaplovdiv.bg/bg/performance/details?id=557",
+      "image": "https://operaplovdiv.bg/timthumb.php?src=/media/images/dd700c158be1c8e55e7c2d8992c191eb3ce101cac96dea3d360950578b9cb67d.png&w=1500",
+      "description": "Концерт · За деца",
+      "source": "Опера Пловдив"
+    },
+    {
+      "id": "kolodrum-koki-koledna-kupa-praznichno-sastezanie-po-hudojestvena-gimnastika",
+      "title": "Коки Коледна купа – празнично състезание по художествена гимнастика",
+      "category": "sport-other",
+      "ages": [
+        "all"
+      ],
+      "start": "2026-12-10T22:00:00.000Z",
+      "end": "2026-12-11T21:59:00.000Z",
+      "allDay": true,
+      "venue": "Зала „Колодрум“",
+      "address": "ул. „Асеновградско шосе“ 8, Пловдив",
+      "url": "https://kolodrumplovdiv.com/bg/sybitia/koki-koledna-kupa-praznichno-sastezanie-po-hudojestvena-gimnastika",
+      "image": "https://kolodrumplovdiv.com/uploads/6af458552b32e_20261111_121901%20(1).jpg",
+      "source": "Колодрум Пловдив"
     },
     {
       "id": "vp-16112-4",
@@ -970,6 +1173,23 @@
       "source": "Visit Plovdiv"
     },
     {
+      "id": "bilet-8485",
+      "title": "Tool Tribute band H at Download",
+      "category": "concert",
+      "ages": [
+        "all"
+      ],
+      "start": "2026-12-12T19:00:00.000Z",
+      "end": "2026-12-12T22:00:00.000Z",
+      "venue": "Rock Bar Download",
+      "address": "ул. \"Лейди Странгфорд\" 5, 4000 Пловдив, 4000 Пловдив, Пловдив",
+      "organizer": "Нино Гомес",
+      "url": "https://bilet.bg/bg/events/tool-tribute-band-h-at-download-8485",
+      "image": "https://panel.bilet.bg/media/events/ed0c839f176b92079a37823d95b35a7b.png",
+      "description": "Tool Tribute band H at Download",
+      "source": "bilet.bg"
+    },
+    {
       "id": "vp-16096",
       "title": "Най- добрия мъж",
       "category": "theatre",
@@ -986,7 +1206,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-14",
+      "id": "vp-16113-14",
       "title": "Одисей",
       "category": "theatre",
       "ages": [
@@ -1002,7 +1222,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-15",
+      "id": "vp-16113-15",
       "title": "Цигуларката на Бога",
       "category": "theatre",
       "ages": [
@@ -1018,7 +1238,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-16",
+      "id": "vp-16113-16",
       "title": "Укротяване на опърничавата",
       "category": "theatre",
       "ages": [
@@ -1034,7 +1254,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-17",
+      "id": "vp-16113-17",
       "title": "Мартин, Данчо и майка им",
       "category": "theatre",
       "ages": [
@@ -1050,7 +1270,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-18",
+      "id": "vp-16113-18",
       "title": "Дреднаути. Пиеса за женска публика.",
       "category": "theatre",
       "ages": [
@@ -1066,7 +1286,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-19",
+      "id": "vp-16113-19",
       "title": "Записки по българските въстания",
       "category": "theatre",
       "ages": [
@@ -1082,7 +1302,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-20",
+      "id": "vp-16113-20",
       "title": "Влюбеният дирижабъл",
       "category": "theatre",
       "ages": [
@@ -1114,6 +1334,38 @@
       "source": "Visit Plovdiv"
     },
     {
+      "id": "vp-16113-21",
+      "title": "Английски прозорец",
+      "category": "theatre",
+      "ages": [
+        "all"
+      ],
+      "start": "2026-12-18T17:00:00.000Z",
+      "end": "2026-12-18T20:00:00.000Z",
+      "venue": "Драматичен театър Пловдив – Голяма зала",
+      "organizer": "Драматичен театър – Пловдив",
+      "url": "https://dtp.bg/show/angliiski-prozorec",
+      "image": "https://www.visitplovdiv.com/sites/default/files/Screenshot%202026-11-11%20124238.png",
+      "description": "от Рей Куни",
+      "source": "Visit Plovdiv"
+    },
+    {
+      "id": "vp-16113-22",
+      "title": "Нирвана",
+      "category": "theatre",
+      "ages": [
+        "all"
+      ],
+      "start": "2026-12-18T17:00:00.000Z",
+      "end": "2026-12-18T20:00:00.000Z",
+      "venue": "Драматичен театър Пловдив – Камерна зала",
+      "organizer": "Драматичен театър – Пловдив",
+      "url": "https://dtp.bg/show/nirvana",
+      "image": "https://www.visitplovdiv.com/sites/default/files/Screenshot%202026-11-11%20124238.png",
+      "description": "от Константин Илиев",
+      "source": "Visit Plovdiv"
+    },
+    {
       "id": "vp-16112-5",
       "title": "Семирамида",
       "category": "opera",
@@ -1130,36 +1382,21 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-21",
-      "title": "Английски прозорец",
-      "category": "theatre",
+      "id": "bilet-8966",
+      "title": "No More Many More live at Rock Bar Download",
+      "category": "concert",
       "ages": [
         "all"
       ],
-      "start": "2026-12-18T17:00:00.000Z",
-      "end": "2026-12-18T20:00:00.000Z",
-      "venue": "Драматичен театър Пловдив – Голяма зала",
-      "organizer": "Драматичен театър – Пловдив",
-      "url": "https://dtp.bg/show/angliiski-prozorec",
-      "image": "https://www.visitplovdiv.com/sites/default/files/Screenshot%202026-11-11%20124238.png",
-      "description": "от Рей Куни",
-      "source": "Visit Plovdiv"
-    },
-    {
-      "id": "vp-16110-22",
-      "title": "Нирвана",
-      "category": "theatre",
-      "ages": [
-        "all"
-      ],
-      "start": "2026-12-18T17:00:00.000Z",
-      "end": "2026-12-18T20:00:00.000Z",
-      "venue": "Драматичен театър Пловдив – Камерна зала",
-      "organizer": "Драматичен театър – Пловдив",
-      "url": "https://dtp.bg/show/nirvana",
-      "image": "https://www.visitplovdiv.com/sites/default/files/Screenshot%202026-11-11%20124238.png",
-      "description": "от Константин Илиев",
-      "source": "Visit Plovdiv"
+      "start": "2026-12-18T19:00:00.000Z",
+      "end": "2026-12-18T22:00:00.000Z",
+      "venue": "Rock Bar Download",
+      "address": "ул. \"Лейди Странгфорд\" 5, 4000 Пловдив, 4000 Пловдив, Пловдив",
+      "organizer": "Нино Гомес",
+      "url": "https://bilet.bg/bg/events/no-more-many-more-live-at-rock-bar-download-8966",
+      "image": "https://panel.bilet.bg/media/events/3c4a8cee1c3471a123ca0b25aff3a71d.png",
+      "description": "No More Many More live at Rock Bar Download",
+      "source": "bilet.bg"
     },
     {
       "id": "vp-16112-6",
@@ -1178,7 +1415,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-23",
+      "id": "vp-16113-23",
       "title": "Коприна",
       "category": "theatre",
       "ages": [
@@ -1194,7 +1431,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-24",
+      "id": "vp-16113-24",
       "title": "Уют",
       "category": "theatre",
       "ages": [
@@ -1210,7 +1447,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-25",
+      "id": "vp-16113-25",
       "title": "Концерт-спектакълът „Коледна приказка“",
       "category": "theatre",
       "ages": [
@@ -1242,7 +1479,7 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16110-26",
+      "id": "vp-16113-26",
       "title": "Арт",
       "category": "theatre",
       "ages": [
@@ -1256,6 +1493,39 @@
       "image": "https://www.visitplovdiv.com/sites/default/files/Screenshot%202026-11-11%20124238.png",
       "description": "от Ясмина Реза",
       "source": "Visit Plovdiv"
+    },
+    {
+      "id": "vp-16113-27",
+      "title": "Концерт-спектакълът „Коледна приказка“",
+      "category": "theatre",
+      "ages": [
+        "all"
+      ],
+      "start": "2026-12-22T18:00:00.000Z",
+      "end": "2026-12-22T21:00:00.000Z",
+      "venue": "Драматичен театър Пловдив – Голяма зала",
+      "organizer": "Драматичен театър – Пловдив",
+      "url": "https://dtp.bg/show/name-sdvpxc",
+      "image": "https://www.visitplovdiv.com/sites/default/files/Screenshot%202026-11-11%20124238.png",
+      "description": "Деси Тенекеджиева и Йордан Камджалов",
+      "source": "Visit Plovdiv"
+    },
+    {
+      "id": "bilet-9218",
+      "title": "XMAS with Christian Craken, Vasco UG & Chris Bau | Plovdiv Event Center",
+      "category": "concert",
+      "ages": [
+        "all"
+      ],
+      "start": "2026-12-25T21:00:00.000Z",
+      "end": "2026-12-26T00:00:00.000Z",
+      "venue": "Plovdiv Event Center",
+      "address": "Източни казарми, бул. \"Санкт Петербург\" 131, 4017 Пловдив, Пловдив",
+      "organizer": "christiancrakendj",
+      "url": "https://bilet.bg/bg/events/xmas-with-christian-craken-vasco-ug-chris-bau-plovdiv-event-center-9218",
+      "image": "https://panel.bilet.bg/media/events/ae54df2ec2054906c623c4f42848933d.png",
+      "description": "XMAS with Christian Craken, Vasco UG & Chris Bau | Plovdiv Event Center",
+      "source": "bilet.bg"
     },
     {
       "id": "vp-16112-7",
@@ -1274,19 +1544,103 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "kb-shoseini_biaganiia_plovdiv-20270306",
-      "title": "ШОСЕЙНИ БЯГАНИЯ ПЛОВДИВ",
+      "id": "opera-558-20271911",
+      "title": "Лешникотрошачката - съкратена версия за деца",
+      "category": "kids",
+      "ages": [
+        "all",
+        "under18"
+      ],
+      "start": "2027-01-09T09:00:00.000Z",
+      "end": "2027-01-09T12:00:00.000Z",
+      "venue": "Дом на културата \"Борис Христов\"",
+      "organizer": "Държавна опера Пловдив",
+      "url": "https://operaplovdiv.bg/bg/performance/details?id=558",
+      "image": "https://operaplovdiv.bg/timthumb.php?src=/media/images/c3382549d7a1c0facbae8bf1e440b006dbd54ab1e444b69827d45db3dceacd9b.jpeg&w=1500",
+      "description": "Чайковски — Лешникотрошачката - съкратена версия за деца\nБалет · За деца",
+      "source": "Опера Пловдив"
+    },
+    {
+      "id": "opera-558-20271917",
+      "title": "Лешникотрошачката - съкратена версия за деца",
+      "category": "kids",
+      "ages": [
+        "all",
+        "under18"
+      ],
+      "start": "2027-01-09T15:00:00.000Z",
+      "end": "2027-01-09T18:00:00.000Z",
+      "venue": "Дом на културата \"Борис Христов\"",
+      "organizer": "Държавна опера Пловдив",
+      "url": "https://operaplovdiv.bg/bg/performance/details?id=558",
+      "image": "https://operaplovdiv.bg/timthumb.php?src=/media/images/c3382549d7a1c0facbae8bf1e440b006dbd54ab1e444b69827d45db3dceacd9b.jpeg&w=1500",
+      "description": "Чайковски — Лешникотрошачката - съкратена версия за деца\nБалет · За деца",
+      "source": "Опера Пловдив"
+    },
+    {
+      "id": "bilet-9213",
+      "title": "Hubris. ///Live in Plovdiv",
+      "category": "concert",
+      "ages": [
+        "all"
+      ],
+      "start": "2027-02-04T17:00:00.000Z",
+      "end": "2027-02-04T20:00:00.000Z",
+      "venue": "Bee Bop Café",
+      "address": "ул. „Гладстон“ №1, Пловдив, България., Пловдив",
+      "organizer": "ЕКИПАЖ ООД",
+      "url": "https://bilet.bg/bg/events/hubris-live-in-plovdiv-9213",
+      "image": "https://panel.bilet.bg/media/events/6e9c3d596db4d80292380ee293aba7bb.png",
+      "description": "Hubris. ///Live in Plovdiv",
+      "source": "bilet.bg"
+    },
+    {
+      "id": "sk-43208803",
+      "title": "Bryan Bielanski",
+      "category": "concert",
+      "ages": [
+        "all"
+      ],
+      "start": "2027-02-20T18:00:00.000Z",
+      "end": "2027-02-20T21:00:00.000Z",
+      "venue": "Lo/Hi Craft Space",
+      "address": "Plovdiv",
+      "organizer": "Bryan Bielanski",
+      "url": "https://www.songkick.com/concerts/43208803-bryan-bielanski-at-lohi-craft-space?utm_medium=organic&utm_source=microformat",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/10100932/huge_avatar",
+      "description": "Bryan Bielanski at Lo/Hi Craft Space at 2027-02-20T20:00:00+0200",
+      "source": "Songkick"
+    },
+    {
+      "id": "rc-1337",
+      "title": "Шосейни Бягания Пловдив",
       "category": "running",
       "ages": [
         "all"
       ],
-      "start": "2027-03-05T22:00:00.000Z",
-      "end": "2027-03-06T21:59:00.000Z",
-      "allDay": true,
-      "venue": "Пловдив",
-      "url": "https://www.kalendarbyagane.com/stranitsi-na-sastezaniyata/shoseini_biaganiia_plovdiv/",
-      "description": "Вид: Шосейно бягане\nДистанции: 10 km, 5 km",
-      "source": "Календар Бягане"
+      "start": "2027-03-06T07:00:00.000Z",
+      "end": "2027-03-07T21:59:00.000Z",
+      "venue": "Пловдив ",
+      "url": "https://skactive2013.com/",
+      "description": "Терен: Шосе",
+      "source": "RaceCalendar.bg"
+    },
+    {
+      "id": "bilet-8276",
+      "title": "Chris Norman Live - Plovdiv",
+      "category": "concert",
+      "ages": [
+        "all"
+      ],
+      "start": "2027-03-23T18:00:00.000Z",
+      "end": "2027-03-23T21:00:00.000Z",
+      "venue": "Арена  Колодрум Пловдив",
+      "address": "ул. Асеновградско шосе №8, Пловдив",
+      "organizer": "Скаймюзик Продъкшън",
+      "url": "https://bilet.bg/bg/events/chris-norman-live-plovdiv-8276",
+      "image": "https://panel.bilet.bg/media/events/d97e37e81c12083d3d54251920f3d93b.png",
+      "description": "Chris Norman Live - Plovdiv",
+      "source": "bilet.bg"
     },
     {
       "id": "rc-1324",
@@ -1301,6 +1655,23 @@
       "url": "https://tracksport.live/e/plovdiv-hills-in-markovo-3",
       "description": "Дистанции: 700 м, 8 км, 12 км, 22 км, 44 км\nТерен: Трейл",
       "source": "RaceCalendar.bg"
+    },
+    {
+      "id": "bilet-7915",
+      "title": "ЖИВИ ДИНОЗАВРИ - В търсене на яйцето - Пловдив",
+      "category": "concert",
+      "ages": [
+        "all"
+      ],
+      "start": "2027-04-10T10:30:00.000Z",
+      "end": "2027-04-10T13:30:00.000Z",
+      "venue": "Спортен комплекс Сила",
+      "address": "Център Пловдив, ул. Тракия 50, 4000 Пловдив, Пловдив",
+      "organizer": "БЪЛГАРСКИ ДЕТСКИ ФЕСТИВАЛ",
+      "url": "https://bilet.bg/bg/events/zhivi-dinozavri-v-tursene-na-aytseto-plovdiv-7915",
+      "image": "https://panel.bilet.bg/media/events/bd214d9ba20efadd2e9e13c689208ca9.png",
+      "description": "ЖИВИ ДИНОЗАВРИ - В търсене на яйцето - Пловдив",
+      "source": "bilet.bg"
     },
     {
       "id": "rc-1319",
@@ -1429,6 +1800,23 @@
       "source": "Календар Бягане"
     },
     {
+      "id": "bilet-8467",
+      "title": "NIGEL KENNEDY: Virtuoso Tour",
+      "category": "concert",
+      "ages": [
+        "all"
+      ],
+      "start": "2027-06-17T17:00:00.000Z",
+      "end": "2027-06-17T20:00:00.000Z",
+      "venue": "Античен Театър Пловдив",
+      "address": "Център Пловдив, ул. Цар Ивайло 4, 4000 Пловдив, Пловдив",
+      "organizer": "Sofia Music Enterprise",
+      "url": "https://bilet.bg/bg/events/nigel-kennedy-virtuoso-tour-8467",
+      "image": "https://panel.bilet.bg/media/events/abfeb065f926c287eb5aecd6daefbd8b.png",
+      "description": "NIGEL KENNEDY: Virtuoso Tour",
+      "source": "bilet.bg"
+    },
+    {
       "id": "vp-16066",
       "title": "PhillGood",
       "category": "festival",
@@ -1446,21 +1834,22 @@
       "source": "Visit Plovdiv"
     },
     {
-      "id": "vp-16064",
-      "title": "Hills of Rock",
+      "id": "sk-1874504",
+      "title": "Hills Of Rock Festival 2027",
       "category": "festival",
       "ages": [
         "all"
       ],
       "start": "2027-07-22T21:00:00.000Z",
-      "end": "2027-07-25T20:59:00.000Z",
+      "end": "2027-07-24T21:00:00.000Z",
       "allDay": true,
-      "venue": "Гребна база",
-      "organizer": "Fest Team",
-      "url": "https://www.visitplovdiv.com/bg/node/16064",
-      "image": "https://www.visitplovdiv.com/sites/default/files/831155191_1410669177856770_5092323161618825885_n.jpg",
-      "description": "\r\n\r\nОсмото издание на най-големия фестивал за тежка музика в България ще се проведе отново на Гребната база в Пловдив. Девет месеца преди началото си Hills of Rock 2027 вече обяви първите шест групи в програмата.\n\r\nНа сцената ще се качат Slash ft. Myles Kennedy and The Conspirators, Skillet, Make Them Suffer, Left To Suffer, Die Krupps и Atreyu.\n\r\nПървите имена очертават разнообразен музикален спектър – от хард рок и модерна рок музика до метълкор, деткор и индъстриъл. Slash ft. Myles Kennedy and The Conspirators ще представят мощния си хард рок, а американците Skillet ще пристигнат с едни от най-разпознаваемите си хитове и нова музика. Германските пионери Die Krupps ще внесат характерния си индъстриъл звук, докато австралийците Make Them Suffer и Left To Suffer ще предложат експлозивна комбинация от деткор и метълкор. Atreyu ще представят своята емблематична смесица от метълкор и модерн",
-      "source": "Visit Plovdiv"
+      "venue": "Гребна база Пловдив",
+      "address": "23 Yasna Polyana str., Plovdiv",
+      "organizer": "Hills Of Rock Festival 2027",
+      "url": "https://www.songkick.com/festivals/1874504-hills-of-rock/id/43454028-hills-of-rock-festival-2027?utm_medium=organic&utm_source=microformat",
+      "image": "https://images.sk-static.com/images/media/profile_images/events/43454028/huge_avatar?series_id=1874504",
+      "description": "Hills Of Rock Festival 2027 at Plovdiv Rowing Canal at 2027-07-23",
+      "source": "Songkick"
     },
     {
       "id": "kb-natsionalen_shampionat_po_shoseini_biaganiia-20270731",
@@ -1490,9 +1879,10 @@
       "end": "2027-07-31T20:59:00.000Z",
       "allDay": true,
       "tentative": true,
-      "venue": "Пловдив",
-      "url": "https://www.kalendarbyagane.com/stranitsi-na-sastezaniyata/shoseini_biaganiia_plovdiv_2026_1_milia/",
-      "description": "Вид: Шосейно бягане\nДистанции: 5 km\n⚠ Ориентировъчна дата (по миналогодишното издание) — проверете при организатора.",
+      "venue": "Гребният канал, Пловдив",
+      "organizer": "СК Актив 2013",
+      "url": "https://skactive2013.com/road-running-plovdiv/",
+      "description": "Вид: Шосейно бягане\nДистанции: 1.61 km\n⚠ Ориентировъчна дата (по миналогодишното издание) — проверете при организатора.",
       "source": "Календар Бягане"
     },
     {
@@ -1519,13 +1909,13 @@
       "ages": [
         "all"
       ],
-      "start": "2027-08-19T21:00:00.000Z",
-      "end": "2027-08-20T20:59:00.000Z",
-      "allDay": true,
+      "start": "2027-08-20T05:00:00.000Z",
+      "end": "2027-08-20T08:00:00.000Z",
       "tentative": true,
       "venue": "Асеновград",
-      "url": "https://www.kalendarbyagane.com/stranitsi-na-sastezaniyata/decathlon_persenk_ultra_2026/",
-      "description": "Вид: Трейл\nДистанции: 103.26 km, 81.22 km, 51.35 km, 25 km, 20 km\n⚠ Ориентировъчна дата (по миналогодишното издание) — проверете при организатора.",
+      "organizer": "Сдружение Български Ултрамаратони",
+      "url": "https://persenk-ultra.com/",
+      "description": "Вид: Трейл\nДистанции: 100 km, 80 km, 50 km, 25 km, 20 km\n⚠ Ориентировъчна дата (по миналогодишното издание) — проверете при организатора.",
       "source": "Календар Бягане"
     },
     {
@@ -1552,12 +1942,12 @@
       "ages": [
         "all"
       ],
-      "start": "2027-10-01T21:00:00.000Z",
-      "end": "2027-10-02T20:59:00.000Z",
-      "allDay": true,
+      "start": "2027-10-02T08:30:00.000Z",
+      "end": "2027-10-02T11:30:00.000Z",
       "tentative": true,
       "venue": "Гребна база, Пловдив",
-      "url": "https://www.kalendarbyagane.com/stranitsi-na-sastezaniyata/voaiazh_blagotvoritelen_kros_sreshchu_raka/",
+      "organizer": "Сдружение „STOP CANCER“",
+      "url": "https://tracksport.live/e/voaiaz-blagotvoritelen-kros-sreshhu-raka",
       "description": "Вид: Друго\nДистанции: 5 km, 2.5 km\n⚠ Ориентировъчна дата (по миналогодишното издание) — проверете при организатора.",
       "source": "Календар Бягане"
     },

@@ -26,6 +26,7 @@ GitHub (този repo) ──push──► Netlify ──► приложени�
 | `scripts/build-events.mjs` | Събира всички източници → `events.json` |
 | `scripts/sources/` | Един файл = един източник: `20-visitplovdiv` (култура), `22-opoznaiplovdiv` (култура, бизнес), `30-racecalendar` и `31-kalendarbyagane` (бягане). `21-eventim` е изключен (чака разрешение). `10-example-site` е шаблон за нов. |
 | `.github/workflows/update-events.yml` | Дневното автоматично обновяване |
+| `docs/IZTOCHNICI.md` | **Всички източници по категории: кое работи, кое не и защо + как да разпознавате подходящи сайтове** |
 
 ## Правила за събитията
 

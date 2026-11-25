@@ -9,15 +9,19 @@ const AGE_IDS = new Set(["all", "under18", "18-40", "40plus"]);
 
 // Ако източникът не дава категория — познаваме по ключови думи в заглавието/описанието.
 const KEYWORDS = [
-  ["football", /футбол|ботев|локомотив пд|локомотив пловдив|football/i],
-  ["basketball", /баскетбол|basketball/i],
+  // По-специфичните спортове са преди футбола („Ботев“ има и баскетболен, и волейболен отбор)
+  ["basketball", /баскетбол|basketball|нбл/i],
+  ["volleyball", /волейбол|volleyball/i],
+  ["football", /футбол|football|efbet лига|първа лига/i],
   ["volleyball", /волейбол|volleyball/i],
   ["running", /маратон|бягане|крос(?!фит)|\brun\b|running/i],
   ["cycling", /колоездене|велосипед|вело|cycling|bike/i],
   ["rowing", /гребане|гребна база|rowing|кану|каяк/i],
   ["tennis", /тенис|tennis/i],
   ["martial", /бокс|карате|джудо|борба|кикбокс|mma/i],
-  ["fitness", /йога|фитнес|кросфит|yoga|fitness/i],
+  ["fitness", /йога|фитнес|кросфит|yoga|fitness|пилатес/i],
+  ["outdoor", /катерене|алпинизъм|скално|планинарство|трекинг/i],
+  ["sport-other", /гимнастик|чирлидинг|мажорет|шахмат|плуване|тенис на маса|бадминтон|хандбал|ръгби|фехтовка|стрелба|лека атлетика|турнир|шампионат|състезание/i],
   ["opera", /опера|балет|opera|ballet/i],
   ["classical", /филхармония|симфони|камерн|класическ|орган|рецитал/i],
   ["puppet", /куклен/i],
@@ -100,17 +104,36 @@ export function normalize(raw, sourceName) {
 export function dedupe(events) {
   // Денят по българско време (иначе 00:00 ч. в София е „вчера“ в UTC)
   const day = (iso) => new Date(iso).toLocaleDateString("en-CA", { timeZone: "Europe/Sofia" });
-  const key = (e) => `${slug(e.title).replace(/-/g, "").slice(0, 30)}|${day(e.start)}`;
+  // + часът, за да не слеем сутрешно и вечерно представление
+  const hour = (e) => e.allDay ? "" : new Date(e.start).toLocaleTimeString("en-GB", { timeZone: "Europe/Sofia", hour: "2-digit" });
+  const key = (e) => `${slug(e.title).replace(/-/g, "").slice(0, 30)}|${day(e.start)}|${hour(e)}`;
+  // Предпочитаме записа с точен час и потвърдена дата, после по-пълния
+  const score = (x) => Object.keys(x).length - (x.allDay ? 4 : 0) - (x.tentative ? 4 : 0);
   const seen = new Map();
   for (const e of events) {
     const k = key(e);
     const prev = seen.get(k);
-    // Пазим по-пълния запис (с повече попълнени полета)
-    // Предпочитаме записа с точен час и потвърдена дата, после по-пълния
-    const score = (x) => Object.keys(x).length - (x.allDay ? 4 : 0) - (x.tentative ? 4 : 0);
     if (!prev || score(e) > score(prev)) seen.set(k, e);
   }
-  return [...seen.values()];
+
+  // Втори кръг: различни заглавия за едно и също нещо в един ден
+  // („Концерт на Chris Norman“ = „Chris Norman Live - Plovdiv“) от различни източници
+  const STOP = new Set(["kontsert", "live", "plovdiv", "with", "festival", "tour", "turne", "sabitie", "event", "center", "fest"]);
+  const words = (t) => new Set(slug(t).split("-").filter((w) => w.length >= 4 && !STOP.has(w)));
+  const list = [...seen.values()];
+  const drop = new Set();
+  for (let i = 0; i < list.length; i++) {
+    for (let j = i + 1; j < list.length; j++) {
+      const a = list[i], b = list[j];
+      if (drop.has(a) || drop.has(b) || a.source === b.source || day(a.start) !== day(b.start)) continue;
+      // Сутрешно и вечерно представление на едно заглавие са различни събития
+      if (!a.allDay && !b.allDay && Math.abs(new Date(a.start) - new Date(b.start)) > 90 * 60000) continue;
+      const wa = words(a.title), wb = words(b.title);
+      const common = [...wa].filter((w) => wb.has(w)).length;
+      if (common >= 2 || (common >= 1 && Math.min(wa.size, wb.size) <= 1)) drop.add(score(a) >= score(b) ? b : a);
+    }
+  }
+  return list.filter((e) => !drop.has(e));
 }
 
 /** Малък CSV парсер (за публикуван Google Sheet). */
